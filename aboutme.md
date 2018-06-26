@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Что здесь происходит?
+subtitle: Где я?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Добро пожаловать в наш уютный ролевой подвал!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Нас зовут Вундер и Масса и мы решили быть немного полезными для ИНРИНРЯ. В этом блоге будут публиковаться переводы вопросов из шоу «Office Hours» (о том, что это такое, можно прочитать тут), а также какие-то наши мысли по мере их возникновения.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Помимо этого блога существуют:
+- [Одноимённая группа ВКонтакте](https://vk.com/rpgbasement), где можно обсудить всё то, что здесь происходит
+- [канал в Telegram](https://t.me/rpgbasement), где выкладывается тизеры того, что будет появляться блоге, а также другое разное по НРИ
