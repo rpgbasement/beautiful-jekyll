@@ -6,6 +6,16 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+telegram:
+  name: "Telegram"
+  baseUrl: "https://t.me/"
+  icon: "fa-telegram"
+
+vk:
+  name: "ВКонтакте"
+  baseUrl: "https://vk.com/"
+  icon: "fa-vk"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
