@@ -9,7 +9,7 @@
 telegram:
   name: "Telegram"
   baseUrl: "https://t.me/"
-  icon: "fa-telegram"
+  icon: "fa-telegram-plane"
 
 vk:
   name: "ВКонтакте"
