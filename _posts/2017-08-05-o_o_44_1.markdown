@@ -1,17 +1,11 @@
 ---
-author: wunderwaffla
-comments: false
-date: 2017-08-05 15:52:38+00:00
+
 layout: post
-link: https://wunderwaffla.wordpress.com/2017/08/05/o_o_44_1/
-slug: o_o_44_1
 title: 'Office Hours 44.1: создание запоминающихся сцен взаимодействия между персонажами'
-wordpress_id: 1517
-categories:
-- Часы приёма
+tags: ['Часы приёма']
 ---
 
-У всех нас есть воспоминания о "_самой лучшей сцене за всю кампанию_". Как правило, это взаимодействие вида PC-PC или PC-NPC. Что помогает созданию таких сцен? Может быть для этого существуют какие-то игровые механики?<!-- more -->
+У всех нас есть воспоминания о "_самой лучшей сцене за всю кампанию_". Как правило, это взаимодействие вида PC-PC или PC-NPC. Что помогает созданию таких сцен? Может быть для этого существуют какие-то игровые механики?
 
 
 
@@ -21,9 +15,8 @@ categories:
 
 
 
-<blockquote>**Дисклеймер**: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).
-[Ссылка на этот вопрос
-](https://youtu.be/EPdbgNxz-Bg?t=1m34s) Ссылки на упомянутые в статье игры можно найти [здесь](https://wunderwaffla.wordpress.com/2017/07/08/o_o_b_s/).</blockquote>
+**Дисклеймер**: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).  
+](https://youtu.be/EPdbgNxz-Bg?t=1m34s) Ссылки на упомянутые в статье игры можно найти [здесь](https://rpgbasement.xyz/2017-07-08-o_o_b_s/).
 
 
 
@@ -77,6 +70,3 @@ _![big_finish_to_song_s2e18](https://wunderwaffla.files.wordpress.com/2017/08/bi
 
 
 
-<blockquote>Понравилась статья? Не забудь поделиться с друзьями.
-Есть комментарии к данному материалу? Хочешь поделиться своими знаниями на этот счёт? У нас есть [группа ВКонтакте](https://vk.com/rpgbasement).
-Есть вопросы или предложения? Пиши в группу, [Telegram](https://t.me/wunderwaffla) или в [форму обратной связи](https://wunderwaffla.wordpress.com/contact/).</blockquote>

@@ -1,19 +1,13 @@
 ---
-author: wunderwaffla
-comments: false
-date: 2017-06-24 10:01:46+00:00
+
 layout: post
-link: https://wunderwaffla.wordpress.com/2017/06/24/o_o_29_2/
-slug: o_o_29_2
 title: 'Office Hours 29.2: Вождение незнакомцев по "сложным" системам'
-wordpress_id: 880
-categories:
-- Часы приёма
+tags: ['Часы приёма']
 ---
 
 Система содержит некоторые весьма "жёсткие" и смертельно опасные по отношению к персонажам игроков элементы. Как при игре с малознакомыми людьми сделать так, чтобы игры были сложными, но не настолько, чтобы меня считали мудаком?
 
-<!-- more -->
+
 
 
 
@@ -23,7 +17,7 @@ categories:
 
 
 
-<blockquote>Дисклеймер: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).</blockquote>
+Дисклеймер: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).  
 
 
 
@@ -55,7 +49,7 @@ categories:
 
 
 
-<blockquote>"Покажи", а не "расскажи".</blockquote>
+"Покажи", а не "расскажи".
 
 
 
@@ -71,8 +65,5 @@ categories:
 
 
 
-<blockquote>Понравилась статья? Не забудь поделиться с друзьями. Кнопочки ниже.
 
-Есть комментарии к данному материалу? Хочешь поделиться своими знаниями на этот счёт? Тему можно обсудить в группе [Героев Фолкреста](https://vk.com/heroesoffallcrest)
 
-Есть вопросы или предложения ко мне? Пиши в [Telegram](https://t.me/wunderwaffla) или в [форму обратной связи](https://wunderwaffla.wordpress.com/contact/).</blockquote>

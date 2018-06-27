@@ -1,15 +1,9 @@
 ---
-author: wunderwaffla
-comments: false
-date: 2018-03-27 19:05:30+00:00
+
 layout: post
-link: https://wunderwaffla.wordpress.com/2018/03/27/o_o_37_2/
-slug: o_o_37_2
 title: 'Office Hours 37.2: Глубокие и проработанные NPC. Как их показать, не затмевая
   игроков?'
-wordpress_id: 2218
-categories:
-- Часы приёма
+tags: ['Часы приёма']
 ---
 
 На первый взгляд перед мастером стоит выбор между двумя зайцами:
@@ -25,7 +19,7 @@ categories:
 
 
 
-В первом случае у нас получается мастер, который “играет сам с собой”, во втором - мир, населённый функциями вместо персонажей. Как найти баланс?![VOLCHARA](https://wunderwaffla.files.wordpress.com/2018/03/volchara.png)<!-- more -->
+В первом случае у нас получается мастер, который “играет сам с собой”, во втором - мир, населённый функциями вместо персонажей. Как найти баланс?![VOLCHARA](https://wunderwaffla.files.wordpress.com/2018/03/volchara.png)
 
 
 
@@ -35,9 +29,8 @@ categories:
 
 
 
-<blockquote>Дисклеймер: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).
-[Ссылка на этот вопрос](https://youtu.be/q_YyRAsV6A4?t=20m24s)
-Если в статье упоминаются какие-либо игры - ссылки на них находятся [здесь](https://wunderwaffla.wordpress.com/2017/07/08/o_o_b_s/).</blockquote>
+Дисклеймер: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).  
+Если в статье упоминаются какие-либо игры - ссылки на них находятся [здесь](https://rpgbasement.xyz/2017-07-08-o_o_b_s/).
 
 
 
@@ -57,7 +50,7 @@ categories:
 
 
 
-<blockquote>Игроки уничтожат всё, что ты полюбишь.</blockquote>
+Игроки уничтожат всё, что ты полюбишь.
 
 
 
@@ -88,11 +81,8 @@ categories:
 
 
 
-<blockquote>Понравилась статья? Не забудь поделиться с друзьями.
 
-Есть комментарии к данному материалу? Хочешь поделиться своими знаниями на этот счёт? У нас есть [группа ВКонтакте](https://vk.com/rpgbasement).
 
-Есть вопросы или предложения? Пиши в группу, [Telegram](https://t.me/wunderwaffla) или в [форму обратной связи](https://wunderwaffla.wordpress.com/contact/).</blockquote>
 
 
 

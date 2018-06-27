@@ -1,19 +1,13 @@
 ---
-author: wunderwaffla
-comments: false
-date: 2017-03-27 09:46:01+00:00
+
 layout: post
-link: https://wunderwaffla.wordpress.com/2017/03/27/o_o_1_2/
-slug: o_o_1_2
 title: 'Office Hours 1.2: подготовка'
-wordpress_id: 111
-categories:
-- Часы приёма
+tags: ['Часы приёма']
 ---
 
 Что лучше заносить в свою тетрадь для записей при подготовке?
 
-<!-- more -->
+
 
 
 
@@ -23,7 +17,7 @@ categories:
 
 
 
-<blockquote>Дисклеймер: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).</blockquote>
+Дисклеймер: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).  
 
 
 
@@ -42,9 +36,9 @@ categories:
 
 
 
-<blockquote>
+
   Вести записи важно также и во время игры, не только при подготовке.
-</blockquote>
+
 
 
 
@@ -61,9 +55,9 @@ categories:
 
 
 
-<blockquote>
+
   Сказав вещь, сделай о ней заметку - это может вернуться и понадобиться позднее.
-</blockquote>
+
 
 
 
@@ -82,9 +76,9 @@ categories:
 
 
 
-<blockquote>
+
   Всё то, что стоит записывать в свою тетрадь, можно поделить на две части: то, что облегчит тебе жизнь и то, что вдохновляет.
-</blockquote>
+
 
 
 
@@ -97,9 +91,9 @@ categories:
 
 
 
-<blockquote>
+
   Можно сказать так - если ты собираешься занести в свою тетрадь запись, к которой ты не вернёшься потом - не пиши это.
-</blockquote>
+
 
 
 
@@ -118,8 +112,5 @@ categories:
 
 
 
-<blockquote>Понравилась статья? Не забудь поделиться с друзьями. Кнопочки ниже.
 
-Есть комментарии к данному материалу? Эту тему можно обсудить в группе [Героев Фолкреста](https://vk.com/heroesoffallcrest)
 
-Есть вопросы или предложения ко мне? Пиши в [Telegram](https://t.me/wunderwaffla) или в [форму обратной связи](https://wunderwaffla.wordpress.com/contact/).</blockquote>

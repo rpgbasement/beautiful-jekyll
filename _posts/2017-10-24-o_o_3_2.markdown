@@ -1,17 +1,11 @@
 ---
-author: wunderwaffla
-comments: false
-date: 2017-10-24 20:18:44+00:00
+
 layout: post
-link: https://wunderwaffla.wordpress.com/2017/10/24/o_o_3_2/
-slug: o_o_3_2
 title: 'Office Hours 3.2: Плавающее количество игроков в рамках одной кампании'
-wordpress_id: 2044
-categories:
-- Часы приёма
+tags: ['Часы приёма']
 ---
 
-Каким образом вести кампанию с плавающим количеством игроков? Бывают такие ситуации, когда не все могут присутствовать каждую неделю.<!-- more -->
+Каким образом вести кампанию с плавающим количеством игроков? Бывают такие ситуации, когда не все могут присутствовать каждую неделю.
 
 
 
@@ -21,9 +15,8 @@ categories:
 
 
 
-<blockquote>Дисклеймер: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).
-[Ссылка на этот вопрос](https://youtu.be/vCQ8hPGECFQ?t=19m12s)
-Если в статье упоминаются какие-либо игры - ссылки на них находятся [здесь](https://wunderwaffla.wordpress.com/2017/07/08/o_o_b_s/).</blockquote>
+Дисклеймер: это вольный перевод части одного из выпусков шоу "Office Hours". Если ты не в курсе, что это за шоу, об этом можно узнать [здесь](https://wunderwaffla.wordpress.com/2017/03/21/что-за-office-hours/). Если ты хочешь посмотреть его в оригинале, тебе [сюда](https://www.youtube.com/playlist?list=PLAmPx8nWedFVGdrP2JmcYzdvZC8sWV5b4).  
+Если в статье упоминаются какие-либо игры - ссылки на них находятся [здесь](https://rpgbasement.xyz/2017-07-08-o_o_b_s/).
 
 
 
@@ -57,9 +50,7 @@ categories:
 
 
 
-<blockquote>Есть комментарии к данному материалу? Хочешь поделиться своими знаниями на этот счёт? У нас есть [группа ВКонтакте](https://vk.com/rpgbasement).
 
-Есть вопросы или предложения? Пиши в группу, [Telegram](https://t.me/wunderwaffla) или в [форму обратной связи](https://wunderwaffla.wordpress.com/contact/).</blockquote>
 
 
 

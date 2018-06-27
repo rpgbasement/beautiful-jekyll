@@ -1,17 +1,11 @@
 ---
-author: wunderwaffla
-comments: false
-date: 2017-11-05 22:20:08+00:00
+
 layout: post
-link: https://wunderwaffla.wordpress.com/2017/11/06/10_candles/
-slug: 10_candles
 title: 10 candles. Ключи от Чертог Ужаса
-wordpress_id: 2100
-categories:
-- Принимаем удар на себя
+tags: ['Принимаем удар на себя']
 ---
 
-Привет. [Ролевой Подвал](https://vk.com/rpgbasement) снова здесь и принимает удар на себя. В этот раз рассказ пойдёт о системе [10 candles.](http://cavalrygames.com/ten-candles/)<!-- more -->
+Привет. [Ролевой Подвал](https://vk.com/rpgbasement) снова здесь и принимает удар на себя. В этот раз рассказ пойдёт о системе [10 candles.](http://cavalrygames.com/ten-candles/)
 
 ![Selection_040](https://wunderwaffla.files.wordpress.com/2017/11/selection_040.png)
 
@@ -113,8 +107,5 @@ categories:
 
 
 
-<blockquote>Понравилась статья? Не забудь поделиться с друзьями.
 
-Есть комментарии к данному материалу? Хочешь поделиться своими знаниями на этот счёт? У нас есть [группа ВКонтакте](https://vk.com/rpgbasement).
 
-Есть вопросы или предложения? Пиши в группу, [Telegram](https://t.me/wunderwaffla) или в [форму обратной связи](https://wunderwaffla.wordpress.com/contact/).</blockquote>
