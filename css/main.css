@@ -20,8 +20,26 @@ p {
   line-height: 1.5;
   margin: 15px 0;
 }
+.right{
+     text-align: right;
+}
+.left{
+     text-align: left;
+}
+.center{
+     text-align: center;
+}
 h1,h2,h3,h4,h5,h6 {
   font-family: 'IBM Plex Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.right{
+     text-align: right;
+}
+.left{
+     text-align: left;
+}
+.center{
+     text-align: center;
 }
 a {
   color: {{ site.link-col }};
@@ -359,7 +377,7 @@ footer .theme-by {
   width: 100%;
 }
 .post-image {
-  float: right;
+  float: center;
   height: 192px;
   width: 192px;
   margin-top: -35px;
