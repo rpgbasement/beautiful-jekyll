@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dark Sould TRPG. Обзор от qdrn
+title: Dark Souls TRPG. Обзор от qdrn
 tags:
   - Принимаем удар на себя
 published: true
