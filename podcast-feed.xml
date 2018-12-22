@@ -1,27 +1,76 @@
 ---
 layout: null
 ---
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
 
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-
-  <channel>
+<channel>
     <title>{{site.podcastTitle}}</title>
-	<author>Вундер and Маса</author>
+    <atom:link href="https://rpgbasement.xyz/podcast-feed.xml" rel="self" type="application/rss+xml" />
     <link>{{site.podcastSite}}</link>
-    <language>en-us</language>
     <description>{{site.podcastDescription}}</description>
-	<webMaster>rpgbasement@gmail.com</webMaster>
+	<language>ru</language>
 
+<image>
+	<url>https://rpgbasement.xyz/podcast/logo.png</url>
+    <title>{{site.podcastTitle}}</title>
+    <link>https://rpgbasement.xyz</link>
+	<width>500</width>
+	<height>500</height>
+</image>
+	<itunes:summary><![CDATA[Разговоры про настольные ролевые игры.]]></itunes:summary>
+	<itunes:author>{{site.podcastAuthor}}</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>{{site.podcastAuthor}}</itunes:name>
+		<itunes:email>{{site.podcastEmail}}</itunes:email>
+	</itunes:owner>
+	<managingEditor>{{site.podcastEmail}} ({{site.podcastAuthor}})</managingEditor>
+	<copyright>2018 &#xA9; rpgbasement.xyz</copyright>
+	<itunes:subtitle>Разговариваем про НРИ</itunes:subtitle>
+	<image>
+        <title>Зайду попозже</title>
+        <url>https://rpgbasement.xyz/podcast/logo.png</url>
+        <link>https://rpgbasement.xyz</link>
+	</image>
+	<itunes:category text="Society &amp; Culture">
+	</itunes:category>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="History"></itunes:category>
+	</itunes:category>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Places &amp; Travel"></itunes:category>
+	</itunes:category>
+	<googleplay:email>{{site.podcastEmail}}</googleplay:email>
+	<googleplay:description>Разговоры про НРИ</googleplay:description>
+	<googleplay:category text="Society &amp; Culture" />
+	<googleplay:image href="https://rpgbasement.xyz/podcast/logo.png" />
     {% for post in site.categories.podcast %}
-    <item>
-      <title>{{post.title}}</title>
-	  <link>http://rpgbasement.xyz</link>
-	  <description>Как-то так</description>
-	  <enclosure url="http://rpgbasement.xyz/podcast/0-how-to-host-a-dungeon/how_to_host_a_dungeon.mp3" length="" type="audio/mpeg" />
-	  <source url="http://rpgbasement.xyz/podcast/0-how-to-host-a-dungeon/how_to_host_a_dungeon.mp3">Hear the preview here</source>
-      <guid>{{post.guid}}</guid>
-    </item>
+	<item>
+        <title>{{post.title}}</title>
+        <link>{{site.url}}{{post.url}}</link>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+		<category><![CDATA[Зайду попозже]]></category>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <description>
+            {% if post.subtitle %}{{ post.subtitle | xml_escape }} - {% endif %}
+            {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+        </description>
+        <enclosure length="{{post.length}}" url="{{site.url}}{{post.mp3}}" type="audio/mpeg"/>
+        <itunes:subtitle>{{post.subtitle}}</itunes:subtitle>
+        <itunes:summary>{{post.subtitle}}</itunes:summary>
+		<itunes:author>{{site.podcastAuthor}}</itunes:author>
+		<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
+		<itunes:season>1</itunes:season>
+        <itunes:episode>{{post.number}}</itunes:episode>
+		<itunes:explicit>clean</itunes:explicit>
+        <itunes:duration>{{post.duration}}</itunes:duration>
+	</item>
     {% endfor %}
-  </channel>
+	</channel>
 </rss>

@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://rpgbasement.xyz"
+url: "https://rpgbasement.xyz"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -159,7 +159,7 @@ podcastSite: {{url}}
 podcastCoverImg: https://rpgbasement.xyz/podcast/logo.png
 
 # The name of your podcast
-podcastTitle: Звуки из Подвала
+podcastTitle: Зайду попозже
 
 # About You. For iTunes admin. This information is not displayed on the iTunes Store.
 podcastOwner: Ролевой Подвал
@@ -169,12 +169,9 @@ podcastEmail: rpgbasement@gmail.com
 category: Education
 subCategory: Higher Education
 
-# is it too dangerous for the impressionable kiddos?
-podcastIsExplicit: "no"
-
-podcastAuthor: Org, brand or individual
-podcastDescription: Verbose description of the podcast.
-podcastSubtitle: Short description of the podcast - 255 character max.
+podcastAuthor: Ролевой Подвал
+podcastDescription: Говорим про настольные ролевые игры. Ещё у нас есть блог, канал в Telegram и группа вк. Ещё на твиче провели один стрим
+podcastSubtitle: Говорим про настольные ролевые игры.
 
 # Don't edit below this line unless you know what you are doing.
 # ------------------------------------------------------------------------
