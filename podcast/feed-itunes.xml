@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+	<title>Ролевой Подвал</title>
+	<itunes:author></itunes:author>
+	<link>http://rpgbasement.xyz</link>
+	<itunes:subtitle>Звуки из Повала про настольные ролевые игры</itunes:subtitle>
+	<itunes:summary>Описание подкаста</itunes:summary>
+	<language>en-us</language>
+	<copyright> by </copyright>
+	<itunes:owner>
+	    <itunes:name></itunes:name>
+	    <itunes:email>rpgbasement@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="http://rpgbasement.xyz/podcast/logo.png" />
+	<itunes:category text="Arts">
+	    <itunes:category text="Arts - Literature"/>
+	</itunes:category>
+	<item>
+	    <title>0. Как заселить подземелье - принимаем удар на себя</title>
+	    <itunes:author></itunes:author>
+	    <itunes:subtitle>Микро обзор на "Как заселить подземелье"</itunes:subtitle>
+	    <itunes:summary>Как-то так</itunes:summary>
+	    <enclosure url="http://rpgbasement.xyz/podcast/0-how-to-host-a-dungeon/how_to_host_a_dungeon.mp3" length="" type="audio/x-m4a" />
+	    <pubDate>,    :: </pubDate>
+	    <itunes:category text="Arts">
+		    <itunes:category text="Arts - Literature"/>
+	    </itunes:category>
+	    <itunes:duration>0:2:13</itunes:duration>
+	    <itunes:explicit>no</itunes:explicit>
+	    <itunes:keywords>rpg,ttrpg</itunes:keywords>
+	</item>
+</channel>
+</rss>
+	
