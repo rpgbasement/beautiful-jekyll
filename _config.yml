@@ -181,8 +181,8 @@ podcastSubtitle: Short description of the podcast - 255 character max.
 
 
 # Create a Jekyll collection to handle the episodes
-collections:
-- episodes
+# collections:
+# - episodes
 
 # Use tags index page and make tags on each post clickable
 link-tags: true

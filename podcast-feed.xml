@@ -13,14 +13,14 @@ layout: null
     <description>{{site.podcastDescription}}</description>
 	<webMaster>rpgbasement@gmail.com</webMaster>
 
-    {% for ep in site.episodes %}
+    {% for post in site.categories.podcast %}
     <item>
-      <title>{{ep.title}}</title>
+      <title>{{post.title}}</title>
 	  <link>http://rpgbasement.xyz</link>
 	  <description>Как-то так</description>
 	  <enclosure url="http://rpgbasement.xyz/podcast/0-how-to-host-a-dungeon/how_to_host_a_dungeon.mp3" length="" type="audio/mpeg" />
 	  <source url="http://rpgbasement.xyz/podcast/0-how-to-host-a-dungeon/how_to_host_a_dungeon.mp3">Hear the preview here</source>
-      <guid>{{ep.guid}}</guid>
+      <guid>{{post.guid}}</guid>
     </item>
     {% endfor %}
   </channel>
