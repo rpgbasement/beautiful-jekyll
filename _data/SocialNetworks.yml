@@ -8,12 +8,12 @@
 
 telegram:
   name: "Telegram"
-  baseUrl: "https://t.me/"
+  baseUrl: "https://t.me/rpgbasement"
   icon: "fa-telegram-plane"
 
 vk:
-  name: "ВКонтакте"
-  baseUrl: "https://vk.com/"
+  name: "VK"
+  baseUrl: "https://vk.com/rpgbasement"
   icon: "fa-vk"
 
 facebook:
@@ -88,8 +88,13 @@ telephone:
 
 rss:
   name: "RSS"
-  baseURL: "{{ '/feed.xml' | prepend: site.baseurl }}"
+  baseURL: "https://rpgbasement.xyz/feed.xml"
   icon: "fa-rss"
+
+podcast:
+  name: "Podcast feed"
+  baseURL: "https://rpgbasement.xyz/podcast-feed.xml"
+  icon: "fa-podcast"
 
 steam:
   name: "Steam"
@@ -98,7 +103,7 @@ steam:
 
 twitch:
   name: "Twitch"
-  baseURL: "https://www.twitch.tv/"
+  baseURL: "https://www.twitch.tv/rpgbasement"
   icon: "fa-twitch"
 
 yelp:
