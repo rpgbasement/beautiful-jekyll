@@ -29,7 +29,7 @@ navbar-links:
     - Принимаем удар на себя: "https://rpgbasement.xyz/tags/#%D0%9F%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%B5%D0%BC%20%D1%83%D0%B4%D0%B0%D1%80%20%D0%BD%D0%B0%20%D1%81%D0%B5%D0%B1%D1%8F"
     - Тёмный угол: "https://rpgbasement.xyz/tags/#%D0%A2%D1%91%D0%BC%D0%BD%D1%8B%D0%B9%20%D1%83%D0%B3%D0%BE%D0%BB"
     - Play like a big old badass: "https://rpgbasement.xyz/tags/#Play%20like%20a%20big%20old%20badass"
-    - Зайду попозже: "https://rpgbasement.xyz/tags/#Зайду попозже"
+    - Зайду позже: "https://rpgbasement.xyz/tags/#Зайду позже"
   Другие части Подвала:
     - VK: "https://vk.com/rpgbasement"
     - Telegram: "https://t.me/rpgbasement"
@@ -159,7 +159,7 @@ podcastSite: {{url}}
 podcastCoverImg: https://rpgbasement.xyz/podcast/logo.png
 
 # The name of your podcast
-podcastTitle: Зайду попозже
+podcastTitle: Зайду позже
 
 # About You. For iTunes admin. This information is not displayed on the iTunes Store.
 podcastOwner: Ролевой Подвал
@@ -169,7 +169,7 @@ podcastEmail: rpgbasement@gmail.com
 category: Education
 
 podcastAuthor: Ролевой Подвал
-podcastDescription: Нас зовут Вундер и Масса и мы решили быть немного полезными для ИНРИНРЯ. Также у нас есть блог https://rpgbasement.xyz
+podcastDescription: Услышав какие-то звуки из подвала, очень хочется зайти туда позже. Однако это не тот случай. Нас зовут Вундер и Маса и мы решили быть немного полезными для ИНРИНРЯ. У нас есть блог https://rpgbasement.xyz, где также есть разные печатные материалы.
 podcastSubtitle: Говорим про настольные ролевые игры.
 
 # Don't edit below this line unless you know what you are doing.

@@ -34,7 +34,7 @@ layout: null
 	<copyright>2018 &#xA9; rpgbasement.xyz</copyright>
 	<itunes:subtitle>Разговариваем про НРИ</itunes:subtitle>
 	<image>
-        <title>Зайду попозже</title>
+        <title>{{site.podcastTitle}}</title>
         <url>https://rpgbasement.xyz/podcast/logo.png</url>
         <link>https://rpgbasement.xyz</link>
 	</image>
@@ -55,7 +55,7 @@ layout: null
         <title>{{post.title}}</title>
         <link>{{site.url}}{{post.url}}</link>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-		<category><![CDATA[Зайду попозже]]></category>
+		<category><![CDATA[Зайду позже]]></category>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
         <description>
 		{% if post.subtitle %}{{ post.subtitle | xml_escape }}
