@@ -21,7 +21,7 @@ layout: null
 	<width>500</width>
 	<height>500</height>
 </image>
-	<itunes:summary><![CDATA[Разговоры про настольные ролевые игры.]]></itunes:summary>
+	<itunes:summary><![CDATA[Разговоры про настольные ролевые игры]]></itunes:summary>
 	<itunes:author>{{site.podcastAuthor}}</itunes:author>
 	<itunes:explicit>clean</itunes:explicit>
 	<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
