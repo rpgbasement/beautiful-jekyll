@@ -58,10 +58,8 @@ layout: null
 		<category><![CDATA[Зайду позже]]></category>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
         <description>
-		{% if post.subtitle %}{{ post.subtitle | xml_escape }}
-		{% else %}
-		{{ post.content | strip_html | xml_escape | truncatewords: 50 }}
-		{% endif %}
+		{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}
+		{% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}
         </description>
         <enclosure length="{{post.length}}" url="{{site.url}}{{post.mp3}}" type="audio/mpeg"/>
         <itunes:subtitle>{{post.subtitle}}</itunes:subtitle>
