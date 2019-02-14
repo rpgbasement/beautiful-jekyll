@@ -3,7 +3,6 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://rpgbasement.xyz"
 baseurl: ""
 
@@ -80,6 +79,9 @@ url-pretty: "rpgbasement.xyz"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-124267599-1"
 
@@ -102,6 +104,17 @@ google_analytics: "UA-124267599-1"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
+
+# Staticman support
+# staticman:
+  # repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  # branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  # endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+  # reCaptcha:
+  #   # reCaptcha for Staticman (OPTIONAL)
+  #   # If you use reCaptcha, you must also set these parameters in staticman.yml
+  #   siteKey  : # Use your own site key, you need to apply for one on Google
+  #   secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
@@ -244,7 +257,6 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

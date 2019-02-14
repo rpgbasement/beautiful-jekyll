@@ -1,5 +1,6 @@
 ---
 permalink: /podcast-feed.xml
+layout: null
 redirect_to:
   - https://anchor.fm/s/936cc58/podcast/rss
 ---
