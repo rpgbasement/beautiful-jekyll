@@ -49,7 +49,7 @@ https://youtu.be/2I-1JdW27kM
      - Mechton
  - Самураи:
      - Blossoms Are Falling (Burning Wheel)
-     - Reflections
+     - Reflections ([обзор Артёма](https://imaginaria.ru/p/reflections.html))
      - Legend of the Five Rings
  - Девочки-волшебницы:
      - Magical fury
@@ -66,7 +66,7 @@ https://youtu.be/2I-1JdW27kM
  - Kuro
 
 Японские игры:  
- - Double Cross
+ - Double Cross ([обзор Артёма](https://imaginaria.ru/p/double-cross.html))
  - Kamigakari
  - Night Wizard 3E
  - Sword world
@@ -84,7 +84,7 @@ https://youtu.be/2I-1JdW27kM
  - Touhou Danmaku Yuugi flowers
  - Witch Quest
  - Crisis Heroine
- - Zettai Reido
+ - Zettai Reido ([обзор Артёма](https://imaginaria.ru/p/zettai-reido-erp-ad.html))
 
 Ещё больше игр - [на Drivethru в разделе Anime](https://www.drivethrurpg.com/browse.php?filters=910_0_0_0_0)
 
