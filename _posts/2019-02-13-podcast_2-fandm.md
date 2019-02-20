@@ -43,6 +43,7 @@ https://youtu.be/vvqaX19_J0Y
 # Let there be art
 
 [![](/img/gallery.png)](/img/strike/fandm/1.png)  [![]()](/img/strike/fandm/2.png)  [![]()](/img/strike/fandm/3.png)  [![]()](/img/strike/fandm/4.png)  [![]()](/img/strike/fandm/5.jpg)  [![]()](/img/strike/fandm/6.jpg)  [![]()](/img/strike/fandm/7.jpg)  [![]()](/img/strike/fandm/8.jpg)  
+Нажимай сюда ^
 {: .center}
 
 ---
