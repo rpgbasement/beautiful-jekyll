@@ -20,7 +20,7 @@ subtitle: Совы не то, чем кажутся
 Как можно послушать подкаст:
 
 [RSS лента подкастов](/podcast-feed.xml) - добавляйте в ваши любимые подкастоприёмники[^1]  
-[YouTube канал](https://www.youtube.com/channel/UCr-09bDJ9wvDxTMmotgOeFg), там можно найти эту и другие записи
+[YouTube канал](https://www.youtube.com/channel/UCr-09bDJ9wvDxTMmotgOeFg) - там можно найти эту и другие записи
 
 Прямо отсюда:
 
@@ -30,7 +30,7 @@ https://youtu.be/KQdMVBsZqpI
 
 {{page.mp3}}
 
-Или можно просто [скачать mp3]({{page.mp3}}) и слушать где угодно
+Или просто [скачать mp3]({{page.mp3}}) и слушать где угодно
 
 ---
 
@@ -40,7 +40,7 @@ https://youtu.be/vvqaX19_J0Y
 
 ---
 
-# Let there be art
+## Небольшая галерея понравившихся нам иллюстраций
 
 [![](/img/gallery.png)](/img/strike/fandm/1.png)  [![]()](/img/strike/fandm/2.png)  [![]()](/img/strike/fandm/3.png)  [![]()](/img/strike/fandm/4.png)  [![]()](/img/strike/fandm/5.jpg)  [![]()](/img/strike/fandm/6.jpg)  [![]()](/img/strike/fandm/7.jpg)  [![]()](/img/strike/fandm/8.jpg)  
 Нажимай сюда ^
@@ -48,7 +48,7 @@ https://youtu.be/vvqaX19_J0Y
 
 ---
 
-# А вот что сам Зак рекомендует в качестве источников вдохновения для проведения подобной игры:
+## А вот что сам Зак рекомендует в качестве источников вдохновения для проведения подобной игры:
 
 ![](/img/strike/fandm/9.png)
 
