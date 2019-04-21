@@ -15,15 +15,15 @@ subtitle: Попытка выходить относительно регуля�
 Мы решили попробовать выпускать "Зайду позже" чуть более регулярно: будем собираться и обсуждать НРИ новости, статьи или просто пришедшие в голову темы.
 
 Шоуноты этого выпуска:  
-00:01:13 НРИ по "Изменённому углероду"- https://www.huntersentertainment.com/single-post/2019/03/30/Hunters-Entertainment-Rolls-the-Dice-with-Altered-Carbon-Tabletop-Role-Playing-Game
-00:10:31 Второй тираж dw - http://perilouswilds.ru/
-00:14:30 Русское издание D&D 5e, премиумность D&D и нри в целом и как хобби выглядит со стороны - https://vk.com/@dungeons_ru-lokalizacii-ceny Эффект Мёрсера - https://www.reddit.com/r/DMAcademy/comments/a999sd/how_do_i_beat_the_matt_mercer_effect/
-00:26:46 Мета разговоры на игре
-00:30:54 Плейлисты с разной фоновой музыкой - https://www.reddit.com/r/AskGameMasters/comments/bc4j2m/i_decided_to_do_a_megathread_with_all_my_dark_rpg/ Radio Rivendell - https://www.radiorivendell.com
-00:38:13 Лучшая боевая система в НРИ - https://www.reddit.com/r/RPGdesign/comments/bc6r5h/best_combat_in_an_rpg/?utm_medium=android_app&utm_source=share
-00:44:07 Вопрос от Масы: "Для меня каждая игра - это стресс (если можно это так назвать). Как избавиться от него?"
-00:50:29 Нежелание играть по сеттингам в отечественных декорациях
-00:59:21 Правильный ответ на вопрос "О чём игра?" - https://www.reddit.com/r/RPGdesign/comments/bc92j5/rules_of_good_design_vs_design_pillars_vs/?utm_medium=android_app&utm_source=share
+00:01:13 [НРИ по "Изменённому углероду"](https://www.huntersentertainment.com/single-post/2019/03/30/Hunters-Entertainment-Rolls-the-Dice-with-Altered-Carbon-Tabletop-Role-Playing-Game)  
+00:10:31 [Второй тираж dw](http://perilouswilds.ru/)  
+00:14:30 [Русское издание D&D 5e, премиумность D&D и нри в целом и как хобби выглядит со стороны](https://vk.com/@dungeons_ru-lokalizacii-ceny), [Эффект Мёрсера](https://www.reddit.com/r/DMAcademy/comments/a999sd/how_do_i_beat_the_matt_mercer_effect/)  
+00:26:46 Мета разговоры на игре  
+00:30:54 [Плейлисты с разной фоновой музыкой](https://www.reddit.com/r/AskGameMasters/comments/bc4j2m/i_decided_to_do_a_megathread_with_all_my_dark_rpg/), [Radio Rivendell](https://www.radiorivendell.com)  
+00:38:13 [Лучшая боевая система в НРИ](https://www.reddit.com/r/RPGdesign/comments/bc6r5h/best_combat_in_an_rpg/?utm_medium=android_app&utm_source=share)  
+00:44:07 Вопрос от Масы: "Для меня каждая игра - это стресс (если можно это так назвать). Как избавиться от него?"  
+00:50:29 Нежелание играть по сеттингам в отечественных декорациях  
+00:59:21 [Правильный ответ на вопрос "О чём игра?"](https://www.reddit.com/r/RPGdesign/comments/bc92j5/rules_of_good_design_vs_design_pillars_vs/?utm_medium=android_app&utm_source=share)  
 
 ---
 
