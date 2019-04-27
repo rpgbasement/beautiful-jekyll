@@ -32,7 +32,7 @@ layout: null
 		<itunes:email>{{site.podcastEmail}}</itunes:email>
 	</itunes:owner>
 	<managingEditor>{{site.podcastEmail}} ({{site.podcastAuthor}})</managingEditor>
-	<copyright>2018 &#xA9; rpgbasement.xyz</copyright>
+	<copyright>2019 &#xA9; rpgbasement.xyz</copyright>
 	<itunes:subtitle>Разговариваем про НРИ</itunes:subtitle>
 	<image>
         <title>{{site.podcastTitle}}</title>
