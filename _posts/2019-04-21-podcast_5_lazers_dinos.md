@@ -9,20 +9,7 @@ number: 5
 duration: 01:08:03
 length: 70824158
 mp3: /podcast/5_lazers_dinos.mp3
-podcast_info: "<h3>Шоуноты:</h3>
-<ul>
-<li><span>[00:01:13]</span> ⋅⋅⋅ НРИ по "Изменённому углероду"</li>
-<ul>
-<li><a href="https://www.huntersentertainment.com/single-post/2019/03/30/Hunters-Entertainment-Rolls-the-Dice-with-Altered-Carbon-Tabletop-Role-Playing-Game">Анонс</a></li>
-</ul>
-</li>
-<li><span>[00:10:31]</span> ⋅⋅⋅ Второй тираж Dungeon World</li>
-<ul>
-<li><a href="http://perilouswilds.ru/">Промо-страница</a></li>
-</ul>
-</li>
-<li><span>[00:11:13]</span> ⋅⋅⋅ Уничтожение Земли
-</ul>"
+podcast_info: 
 subtitle: Попытка выходить относительно регулярно
 ---
 Мы решили попробовать выпускать "Зайду позже" чуть более регулярно: будем собираться и обсуждать НРИ новости, статьи или просто пришедшие в голову темы.
