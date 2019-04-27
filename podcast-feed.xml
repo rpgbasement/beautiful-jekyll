@@ -22,7 +22,7 @@ layout: null
 	<width>500</width>
 	<height>500</height>
 </image>
-	<itunes:summary><![CDATA[Разговоры про настольные ролевые игры]]></itunes:summary>
+	<itunes:summary><![CDATA[Разговоры о настольных ролевых играх во всём их многообразии]]></itunes:summary>
 	<itunes:author>{{site.podcastAuthor}}</itunes:author>
 	<itunes:explicit>clean</itunes:explicit>
 	<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
@@ -33,7 +33,7 @@ layout: null
 	</itunes:owner>
 	<managingEditor>{{site.podcastEmail}} ({{site.podcastAuthor}})</managingEditor>
 	<copyright>2019 &#xA9; rpgbasement.xyz</copyright>
-	<itunes:subtitle>Разговариваем про НРИ</itunes:subtitle>
+	<itunes:subtitle>rpgbasement.xyz</itunes:subtitle>
 	<image>
         <title>{{site.podcastTitle}}</title>
         <url>https://rpgbasement.xyz/podcast/logo.png</url>
@@ -48,7 +48,7 @@ layout: null
 		<itunes:category text="Places &amp; Travel"></itunes:category>
 	</itunes:category>
 	<googleplay:email>{{site.podcastEmail}}</googleplay:email>
-	<googleplay:description>Разговоры про НРИ</googleplay:description>
+    <googleplay:description>{{site.podcastDescription}}</googleplay:description>
 	<googleplay:category text="Society &amp; Culture" />
 	<googleplay:image href="https://rpgbasement.xyz/podcast/logo.png" />
     {% for post in site.categories.podcast %}
