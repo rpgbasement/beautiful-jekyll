@@ -6,7 +6,7 @@ tags:
 published: true
 categories: podcast
 number: 5
-duration: 01:08:03
+duration: 4083
 length: 70824158
 chapters:
   - start: "00:01:13"

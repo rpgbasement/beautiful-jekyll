@@ -7,7 +7,7 @@ tags:
 published: true
 categories: podcast
 number: 1
-duration: 01:07:10
+duration: 4030
 length: 70846551
 mp3: /podcast/episodes/1_symbaroum.mp3
 subtitle: Обзор на Symbaroum

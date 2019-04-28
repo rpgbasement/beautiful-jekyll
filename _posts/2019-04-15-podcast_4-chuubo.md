@@ -7,7 +7,7 @@ tags:
 published: true
 categories: podcast
 number: 4
-duration: 01:32:46
+duration: 5566
 length: 100896399
 mp3: /podcast/episodes/4_chuubo.mp3
 podcast_info: 

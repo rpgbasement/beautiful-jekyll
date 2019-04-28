@@ -7,7 +7,7 @@ tags:
 published: true
 categories: podcast
 number: 2
-duration: 00:47:29
+duration: 2849
 length: 23990836
 mp3: /podcast/episodes/2_fandm.mp3
 podcast_info: За дополнительной информацией в виде понравившихся нам иллюстраций, дополнительного видео и рекомендаций источников вдохновения от автора проходим сюда https://rpgbasement.xyz/2019-02-13-podcast_2/

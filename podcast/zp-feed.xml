@@ -14,7 +14,7 @@ layout: null
 <channel>
     <title>{{site.podcastTitle}}</title>
     <atom:link href="https://rpgbasement.xyz/podcast-feed.xml" rel="self" type="application/rss+xml" />
-    <link>{{site.podcastSite}}</link>
+    <link>{{site.url}}</link>
     <description>{{site.podcastDescription}}</description>
 	<language>ru</language>
 	<copyright>2019 &#xA9; rpgbasement.xyz</copyright>
