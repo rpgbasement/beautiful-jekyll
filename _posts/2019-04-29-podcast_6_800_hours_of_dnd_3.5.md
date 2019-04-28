@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "Зайду позже #6: 800 часов D&D 3.5"
+title: "Зайду позже #6: 800 часов DnD 3.5"
 tags:
   - Зайду позже
 published: true
@@ -10,7 +10,7 @@ duration: 01:13:01
 length: 78753290
 mp3: /podcast/episodes/6_800_hours_of_dnd.mp3
 podcast_info: "Все ссылки можно найти вот здесь https://rpgbasement.xyz/2019-04-29-podcast_6_800_hours_of_dnd_3.5/"
-subtitle: Опыт, безопасность, развитие, подготовка и 800 часов D&D 3.5
+subtitle: Опыт, безопасность, развитие, подготовка и 800 часов DnD 3.5
 ---
 
 Шоуноты этого выпуска:  
