@@ -35,13 +35,8 @@ layout: null
 	<managingEditor>{{site.podcastEmail}} ({{site.podcastAuthor}})</managingEditor>
 	<itunes:subtitle>rpgbasement.xyz</itunes:subtitle>
     <itunes:keywords>Настольные ролевые игры, НРИ, обзор, новости, ролевой подвал</itunes:keywords>
-	<itunes:category text="Society &amp; Culture">
-	</itunes:category>
-	<itunes:category text="Society &amp; Culture">
-		<itunes:category text="History"></itunes:category>
-	</itunes:category>
-	<itunes:category text="Society &amp; Culture">
-		<itunes:category text="Places &amp; Travel"></itunes:category>
+	<itunes:category text="Games &amp; Hobbies">
+		<itunes:category text="Other games"></itunes:category>
 	</itunes:category>
     {% for post in site.categories.podcast %}
 	<item>
