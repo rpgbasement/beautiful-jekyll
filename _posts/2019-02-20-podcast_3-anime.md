@@ -8,7 +8,7 @@ categories: podcast
 number: 3
 duration: 1:16:39
 length: 85906779
-mp3: /podcast/3_anime.mp3
+mp3: /podcast/episodes/3_anime.mp3
 podcast_info: Список всех перечисленных игр вот здесь - https://rpgbasement.xyz/2019-02-20-podcast_3/
 subtitle: Кто-то сказал 'виабу'?
 ---

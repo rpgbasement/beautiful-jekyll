@@ -9,7 +9,7 @@ categories: podcast
 number: 4
 duration: 01:32:46
 length: 100896399
-mp3: /podcast/4_chuubo.mp3
+mp3: /podcast/episodes/4_chuubo.mp3
 podcast_info: 
 subtitle: Отсутствие дайсов не равно простые правила
 ---

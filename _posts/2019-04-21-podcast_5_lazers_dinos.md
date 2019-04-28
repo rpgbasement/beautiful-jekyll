@@ -8,7 +8,7 @@ categories: podcast
 number: 5
 duration: 01:08:03
 length: 70824158
-mp3: /podcast/5_lazers_dinos.mp3
+mp3: /podcast/episodes/5_lazers_dinos.mp3
 podcast_info: За дополнительной информацией в виде понравившихся нам иллюстраций, дополнительного видео и рекомендаций источников вдохновения от автора проходим сюда <a href="https://beardycast.com/article/science/moon-earth/">Статья о формировании Луны</a>
 subtitle: Попытка выходить относительно регулярно
 ---

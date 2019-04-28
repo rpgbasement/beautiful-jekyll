@@ -9,7 +9,7 @@ categories: podcast
 number: 1
 duration: 01:07:10
 length: 70846551
-mp3: /podcast/1_symbaroum.mp3
+mp3: /podcast/episodes/1_symbaroum.mp3
 subtitle: Обзор на Symbaroum
 ---
 Сегодня в новом формате обзоров у нас Symbaroum - фентезийная игра от Fria Ligan про исследования загадочного тёмного леса.

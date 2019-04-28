@@ -14,17 +14,17 @@ layout: null
     <link>{{site.podcastSite}}</link>
     <description>{{site.podcastDescription}}</description>
 	<language>ru</language>
-
-<image>
-	<url>https://rpgbasement.xyz/podcast/logo.png</url>
-    <title>{{site.podcastTitle}}</title>
-    <link>https://rpgbasement.xyz</link>
-	<width>500</width>
-	<height>500</height>
-</image>
+	<copyright>2019 &#xA9; rpgbasement.xyz</copyright>
+    <image>
+        <url>https://rpgbasement.xyz/podcast/logo.png</url>
+        <title>{{site.podcastTitle}}</title>
+        <link>https://rpgbasement.xyz</link>
+        <width>500</width>
+        <height>500</height>
+    </image>
 	<itunes:summary><![CDATA[Разговоры о настольных ролевых играх во всём их многообразии]]></itunes:summary>
 	<itunes:author>{{site.podcastAuthor}}</itunes:author>
-	<itunes:explicit>clean</itunes:explicit>
+	<itunes:explicit>no</itunes:explicit>
 	<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
 	<itunes:type>episodic</itunes:type>
 	<itunes:owner>
@@ -32,13 +32,7 @@ layout: null
 		<itunes:email>{{site.podcastEmail}}</itunes:email>
 	</itunes:owner>
 	<managingEditor>{{site.podcastEmail}} ({{site.podcastAuthor}})</managingEditor>
-	<copyright>2019 &#xA9; rpgbasement.xyz</copyright>
 	<itunes:subtitle>rpgbasement.xyz</itunes:subtitle>
-	<image>
-        <title>{{site.podcastTitle}}</title>
-        <url>https://rpgbasement.xyz/podcast/logo.png</url>
-        <link>https://rpgbasement.xyz</link>
-	</image>
 	<itunes:category text="Society &amp; Culture">
 	</itunes:category>
 	<itunes:category text="Society &amp; Culture">
@@ -69,7 +63,7 @@ layout: null
 		<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
 		<itunes:season>1</itunes:season>
         <itunes:episode>{{post.number}}</itunes:episode>
-		<itunes:explicit>clean</itunes:explicit>
+		<itunes:explicit>no</itunes:explicit>
         <itunes:duration>{{post.duration}}</itunes:duration>
 	</item>
     {% endfor %}

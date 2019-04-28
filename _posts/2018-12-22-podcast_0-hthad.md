@@ -9,7 +9,7 @@ categories: podcast
 number: 0
 duration: 2:03
 length: 2397328
-mp3: /podcast/0_how_to_host_a_dungeon.mp3
+mp3: /podcast/episodes/0_how_to_host_a_dungeon.mp3
 subtitle: Тизер подкаста от Ролевого Подвала. Мини обзор на "как заселить подземелье" на 2 минуты
 ---
 Услышав какие-то звуки из подвала, очень хочется зайти туда позже. Однако это не тот случай.  
