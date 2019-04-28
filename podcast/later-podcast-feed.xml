@@ -1,5 +1,5 @@
 ---
-permalink: /podcast/zp-podcast-feed.xml
+permalink: /podcast/later-podcast-feed.xml
 layout: null
 ---
 <?xml version="1.0"
@@ -58,7 +58,7 @@ layout: null
         {% if post.chapters %}
           <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
           {% for chapter in post.chapters %}
-          <psc:chapter start="{{ chapter | split_chapter:'start' }}" title="{{ chapter | split_chapter:'title' }}" />
+          <psc:chapter start="{{ chapter.start }}" title="{{ chapter.title }}" />
           {% endfor %}
         </psc:chapters>
         {% endif %}
