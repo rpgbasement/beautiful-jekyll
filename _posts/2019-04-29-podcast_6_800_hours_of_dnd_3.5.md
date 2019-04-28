@@ -6,7 +6,7 @@ tags:
 published: true
 categories: podcast
 number: 6
-duration: 01:13:01
+duration: 4381
 length: 78753290
 mp3: /podcast/episodes/6_800_hours_of_dnd.mp3
 podcast_info: "Все ссылки можно найти вот здесь https://rpgbasement.xyz/2019-04-29-podcast_6_800_hours_of_dnd_3.5/"
