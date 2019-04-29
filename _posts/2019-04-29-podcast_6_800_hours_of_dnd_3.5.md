@@ -9,15 +9,19 @@ number: 6
 duration: 4381
 length: 78753290
 mp3: /podcast/episodes/6_800_hours_of_dnd.mp3
-podcast_info: "Все ссылки можно найти вот здесь https://rpgbasement.xyz/2019-04-29-podcast_6_800_hours_of_dnd_3.5/"
+shownotes: |
+    Шоуноты этого выпуска:  
+    00:00:34 Об опыте в НРИ  
+    00:19:24 Safety tools: X-карты и прочие способы избежать нездоровых ситуаций за столом  
+    00:40:32 Системы прогрессии в НРИ  
+    00:57:40 Подготовка к играм  
+podcast_info: |
+    Все ссылки можно найти вот здесь:
+    https://rpgbasement.xyz/2019-04-29-podcast_6_800_hours_of_dnd_3.5/
 subtitle: Опыт, безопасность, развитие, подготовка и 800 часов DnD 3.5
 ---
 
-Шоуноты этого выпуска:  
-00:00:34 Об опыте в НРИ  
-00:19:24 Safety tools: X-карты и прочие способы избежать нездоровых ситуаций за столом  
-00:40:32 Системы прогрессии в НРИ  
-00:57:40 Подготовка к играм  
+{{page.shownotes}}
 
 Ссылки:  
 [Safety tools](https://breakoutcon.com/extras/safety-tools/)  

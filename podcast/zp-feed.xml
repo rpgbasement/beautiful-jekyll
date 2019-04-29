@@ -23,7 +23,7 @@ layout: null
         <title>{{site.podcastTitle}}</title>
         <link>https://rpgbasement.xyz</link>
     </image>
-	<itunes:summary><![CDATA[Разговоры о настольных ролевых играх во всём их многообразии]]></itunes:summary>
+	<itunes:summary><![CDATA[Услышав какие-то звуки из подвала, очень хочется зайти туда позже. Однако это не тот случай. На связи Ролевой Подвал. Это наш подкаст "Зайду позже", где мы обсуждаем настольные ролевые игры во всех их проявлениях: новости, обзоры игр, различныe полезныe статьи и свои мысли. У нас также есть блог https://rpgbasement.xyz, где находятся разные текстовые материалы.]]></itunes:summary>
 	<itunes:author>{{site.podcastAuthor}}</itunes:author>
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
@@ -48,7 +48,7 @@ layout: null
         <description><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}.  {% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}]]></description>
         <enclosure length="{{post.length}}" url="{{site.url}}{{post.mp3}}" type="audio/mpeg"/>
         <itunes:subtitle>{{post.subtitle}}</itunes:subtitle>
-        <itunes:summary><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}.  {% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}]]></itunes:summary>
+        <itunes:summary><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}.  {% if post.shownotes %}{{ post.shownotes | xml_escape }}{% endif %} {% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}]]></itunes:summary>
 		<itunes:author>{{site.podcastAuthor}}</itunes:author>
 		<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
 		<itunes:season>1</itunes:season>
