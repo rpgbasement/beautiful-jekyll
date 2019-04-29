@@ -1,6 +1,7 @@
 ---
 layout: episode
 title: "Зайду позже #2: Frostbitten and Mutilated - обзор"
+podcast_title: "Frostbitten and Mutilated - обзор"
 tags:
   - Принимаем удар на себя
   - Зайду позже

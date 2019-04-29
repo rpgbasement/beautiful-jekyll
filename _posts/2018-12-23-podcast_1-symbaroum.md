@@ -1,6 +1,7 @@
 ---
 layout: episode
 title: "Зайду позже #1: Symbaroum - обзор"
+podcast_title: "Symbaroum - обзор"
 tags:
   - Принимаем удар на себя
   - Зайду позже

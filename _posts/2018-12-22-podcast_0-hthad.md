@@ -1,6 +1,7 @@
 ---
 layout: episode
 title: "Зайду позже #0: How to host a dungeon - нанообзор"
+podcast_title: "How to host a dungeon - нанообзор"
 tags:
   - Принимаем удар на себя
   - Зайду позже

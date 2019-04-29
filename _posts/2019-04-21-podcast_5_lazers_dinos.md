@@ -1,6 +1,7 @@
 ---
 layout: episode
 title: "Зайду позже #5: С лазерами и динозаврами"
+podcast_title: "С лазерами и динозаврами"
 tags:
   - Зайду позже
 published: true

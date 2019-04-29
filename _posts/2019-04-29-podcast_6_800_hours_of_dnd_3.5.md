@@ -1,6 +1,7 @@
 ---
 layout: episode
 title: "Зайду позже #6: 800 часов DnD 3.5"
+podcast_title: "800 часов DnD 3.5"
 tags:
   - Зайду позже
 published: true
