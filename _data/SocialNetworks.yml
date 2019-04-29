@@ -93,7 +93,7 @@ rss:
 
 podcast:
   name: "Podcast feed"
-  baseURL: "https://rpgbasement.xyz/podcast-feed.xml"
+  baseURL: "https://rpgbasement.xyz/podcast/zp-feed.xml"
   icon: "fa-podcast"
 
 steam:
