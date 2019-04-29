@@ -5,65 +5,59 @@ layout: null
 <?xml version="1.0"
       encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:bitlove="http://bitlove.org"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:psc="http://podlove.org/simple-chapters"
      version="2.0">
 
-<channel>
-    <title>{{site.podcastTitle}}</title>
-    <atom:link href="https://rpgbasement.xyz/podcast/zp-feed.xml" rel="self" type="application/rss+xml" />
-    <link>{{site.url}}</link>
-    <description>{{site.podcastDescription}}</description>
-	<language>ru</language>
-	<copyright>2019 &#xA9; rpgbasement.xyz</copyright>
-    <image>
-        <url>https://rpgbasement.xyz/podcast/logo.png</url>
+    <channel>
         <title>{{site.podcastTitle}}</title>
-        <link>https://rpgbasement.xyz</link>
-    </image>
-	<itunes:summary><![CDATA[Услышав какие-то звуки из подвала, очень хочется зайти туда позже. Однако это не тот случай. На связи Ролевой Подвал. Это наш подкаст "Зайду позже", где мы обсуждаем настольные ролевые игры во всех их проявлениях: новости, обзоры игр, различныe полезныe статьи и свои мысли. У нас также есть блог https://rpgbasement.xyz, где находятся разные текстовые материалы.]]></itunes:summary>
-	<itunes:author>{{site.podcastAuthor}}</itunes:author>
-	<itunes:explicit>no</itunes:explicit>
-	<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
-	<itunes:type>episodic</itunes:type>
-	<itunes:owner>
-		<itunes:name>{{site.podcastAuthor}}</itunes:name>
-		<itunes:email>{{site.podcastEmail}}</itunes:email>
-	</itunes:owner>
-	<managingEditor>{{site.podcastEmail}} ({{site.podcastAuthor}})</managingEditor>
-	<itunes:subtitle>rpgbasement.xyz</itunes:subtitle>
-    <itunes:keywords>Настольные ролевые игры, НРИ, обзор, новости, ролевой подвал</itunes:keywords>
-	<itunes:category text="Games &amp; Hobbies">
-		<itunes:category text="Other games"></itunes:category>
-	</itunes:category>
-    {% for post in site.categories.podcast %}
-	<item>
-        <title>#{{post.number}}: {{post.podcast_title}}</title>
-        <link>{{site.url}}{{post.url}}</link>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-		<category><![CDATA[Зайду позже]]></category>
-        <guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
-        <description><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}.  {% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}]]></description>
-        <enclosure length="{{post.length}}" url="{{site.url}}{{post.mp3}}" type="audio/mpeg"/>
-        <itunes:title>{{post.podcast_title}}</itunes:title>
-        <itunes:subtitle>{{post.subtitle}}</itunes:subtitle>
-        <itunes:summary><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}.  {% if post.shownotes %}{{ post.shownotes | xml_escape }}{% endif %} {% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}]]></itunes:summary>
-		<itunes:author>{{site.podcastAuthor}}</itunes:author>
-		<itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
-		<itunes:season>1</itunes:season>
-        <itunes:episode>{{post.number}}</itunes:episode>
-		<itunes:explicit>no</itunes:explicit>
-        <itunes:duration>{{post.duration}}</itunes:duration>
-        {% if post.chapters %}
-          <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
-          {% for chapter in post.chapters %}
-          <psc:chapter start="{{ chapter.start }}" title="{{ chapter.title }}" />
-          {% endfor %}
-        </psc:chapters>
-        {% endif %}
-	</item>
-    {% endfor %}
-	</channel>
+        <atom:link href="https://rpgbasement.xyz/podcast/zp-feed.xml" rel="self" type="application/rss+xml" />
+        <link>{{site.url}}</link>
+        <description>{{site.podcastDescription}}</description>
+        <language>ru</language>
+        <copyright>2019 &#xA9; rpgbasement.xyz</copyright>
+        <image>
+            <url>https://rpgbasement.xyz/podcast/logo.png</url>
+            <title>{{site.podcastTitle}}</title>
+            <link>https://rpgbasement.xyz</link>
+        </image>
+        <itunes:summary><![CDATA[Услышав какие-то звуки из подвала, очень хочется зайти туда позже. Однако это не тот случай. На связи Ролевой Подвал. Это наш подкаст "Зайду позже", где мы обсуждаем настольные ролевые игры во всех их проявлениях: новости, обзоры игр, различныe полезныe статьи и свои мысли. У нас также есть блог https://rpgbasement.xyz, где находятся разные текстовые материалы.]]></itunes:summary>
+        <itunes:author>{{site.podcastAuthor}}</itunes:author>
+        <googleplay:author>{{site.podcastAuthor}}</googleplay:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
+        <googleplay:image href="https://rpgbasement.xyz/podcast/logo.png" />
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name>{{site.podcastAuthor}}</itunes:name>
+            <itunes:email>{{site.podcastEmail}}</itunes:email>
+        </itunes:owner>
+        <managingEditor>{{site.podcastEmail}} ({{site.podcastAuthor}})</managingEditor>
+        <itunes:subtitle>rpgbasement.xyz</itunes:subtitle>
+        <itunes:keywords>Настольные ролевые игры, НРИ, обзор, новости, ролевой подвал</itunes:keywords>
+        <googleplay:category text="Games &amp; Hobbies"/>
+        <itunes:category text="Games &amp; Hobbies">
+            <itunes:category text="Other games"></itunes:category>
+        </itunes:category>
+        {% for post in site.categories.podcast %}
+        <item>
+            <title>#{{post.number}}: {{post.podcast_title}}</title>
+            <link>{{site.url}}{{post.url}}</link>
+            <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+            <category><![CDATA[Зайду позже]]></category>
+            <guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
+            <description><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}. {% if post.shownotes %}{{ post.shownotes | xml_escape }}{% endif %} {% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}]]></description>
+            <enclosure length="{{post.length}}" url="{{site.url}}{{post.mp3}}" type="audio/mpeg"/>
+            <itunes:title>{{post.podcast_title}}</itunes:title>
+            <itunes:subtitle>{{post.subtitle}}</itunes:subtitle>
+            <itunes:summary><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}. {% if post.shownotes %}{{ post.shownotes | xml_escape }}{% endif %} {% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}]]></itunes:summary>
+            <itunes:author>{{site.podcastAuthor}}</itunes:author>
+            <itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
+            <itunes:season>1</itunes:season>
+            <itunes:episode>{{post.number}}</itunes:episode>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>{{post.duration}}</itunes:duration>
+        </item>
+        {% endfor %}
+    </channel>
 </rss>
