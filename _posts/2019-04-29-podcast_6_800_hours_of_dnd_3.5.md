@@ -19,7 +19,8 @@ shownotes: |
 podcast_info: |
     Все ссылки можно найти вот здесь:
     https://rpgbasement.xyz/2019-04-29-podcast_6_800_hours_of_dnd_3.5/
-subtitle: Опыт, безопасность, развитие, подготовка и 800 часов DnD 3.5
+subtitle: |
+    Опыт, безопасность, развитие, подготовка и 800 часов DnD 3.5  
 ---
 
 {{page.shownotes}}
