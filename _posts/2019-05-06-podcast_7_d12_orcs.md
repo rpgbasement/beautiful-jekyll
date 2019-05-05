@@ -50,7 +50,7 @@ subtitle: |
 
 Прямо отсюда:
 
-TBD
+https://youtu.be/p538GBtPoME
 
 Ещё можно послушать аудио, если вам youtube не по душе:
 
