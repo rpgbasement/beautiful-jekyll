@@ -36,7 +36,7 @@ subtitle: |
 {{page.shownotes}}
 
 Ссылки:  
- - [Pnoenix command обзор (осторожно, английский)](https://projects.inklesspen.com/fatal-and-friends/latwpiat/phoenix-command-small-arms-combat-system/)  
+ - [Phoenix command обзор (осторожно, английский)](https://projects.inklesspen.com/fatal-and-friends/latwpiat/phoenix-command-small-arms-combat-system/)  
  - [Обзор на Кориолис](https://rpgbasement.xyz/2018-08-18-corvalolis/)  
  - [The Sprawl](https://www.drivethrurpg.com/product/171286/The-Sprawl----MIDNIGHT), также [архив с часами для The Sprawl](/podcast/files/7_Sprawl_Clocks.zip). Если будет непонятно, как им пользоваться - пишите, расскажем  
  - [Blades in the Dark](https://www.evilhat.com/home/blades-in-the-dark/). От Студии 101 в скором времени ожидается русская версия, кстати.  
