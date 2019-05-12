@@ -43,7 +43,11 @@ layout: null
         <item>
             <itunes:title>{{post.podcast_title}}</itunes:title>
             <itunes:subtitle>{{post.subtitle}}</itunes:subtitle>
-            <itunes:summary><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}{% if post.shownotes %}{{ post.shownotes | xml_escape }}{% endif %}{% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}]]></itunes:summary>
+            <itunes:summary><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}{% if post.shownotes %}
+Шоуноты:
+{{ post.shownotes | xml_escape }}{% endif %} {% if post.podcast_info %}
+{{ post.podcast_info | xml_escape }}{% endif %}
+Вся сопутствующая информация со ссылками находится здесь: {{site.url}}{{post.url}}]]> </itunes:summary>
             <itunes:author>{{site.podcastAuthor}}</itunes:author>
             <itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
             <itunes:season>1</itunes:season>
@@ -55,7 +59,11 @@ layout: null
             <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
             <category><![CDATA[Зайду позже]]></category>
             <guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
-            <description><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}{% if post.shownotes %}{{ post.shownotes | xml_escape }}{% endif %}{% if post.podcast_info %}{{ post.podcast_info | xml_escape }}{% endif %}]]></description>
+            <description><![CDATA[{% if post.subtitle %}{{ post.subtitle | xml_escape }}{% endif %}{% if post.shownotes %}
+Шоуноты:
+{{ post.shownotes | xml_escape }}{% endif %}{% if post.podcast_info %}
+{{ post.podcast_info | xml_escape }}{% endif %}
+Вся сопутствующая информация со ссылками находится здесь: {{site.url}}{{post.url}}]]></description>
             <enclosure length="{{post.length}}" url="{{site.url}}{{post.mp3}}" type="audio/mpeg"/>
         </item>
         {% endfor %}

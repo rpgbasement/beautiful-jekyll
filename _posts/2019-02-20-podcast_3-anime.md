@@ -10,29 +10,12 @@ number: 3
 duration: 4599
 length: 85906779
 mp3: /podcast/episodes/3_anime.mp3
-podcast_info: Список всех перечисленных игр вот здесь - https://rpgbasement.xyz/2019-02-20-podcast_3/
+youtube: 2I-1JdW27kM
 subtitle: Кто-то сказал 'виабу'?
 ---
 Сегодня говорим про аниме, его место в НРИ, что требуется от игроков и системы, чтобы все за столом почувствовали себя истинными анимелордами. Листай ниже - там список всех упоминаемых в подкасте игр.
 
 [Профиль Артёма на имке](https://imaginaria.ru/profile/qdrn/)
-
----
-
-Как можно послушать подкаст:
-
-[RSS лента подкастов](/podcast/zp-feed.xml) - добавляйте в ваши любимые подкастоприёмники[^1]  
-[YouTube канал](https://www.youtube.com/channel/UCr-09bDJ9wvDxTMmotgOeFg), там можно найти эту и другие записи
-
-Прямо отсюда:
-
-https://youtu.be/2I-1JdW27kM
-
-Ещё можно послушать аудио, если вам youtube не по душе:
-
-{{page.mp3}}
-
-Или можно просто [скачать mp3]({{page.mp3}}) и слушать где угодно
 
 ---
 ## Анимешные и околоанимешные игры - выбор редакции
@@ -88,7 +71,3 @@ https://youtu.be/2I-1JdW27kM
  - Zettai Reido ([обзор Артёма](https://imaginaria.ru/p/zettai-reido-erp-ad.html))
 
 Ещё больше игр - [на Drivethru в разделе Anime](https://www.drivethrurpg.com/browse.php?filters=910_0_0_0_0)
-
----
-
-[^1]: Должно работать. Если не работает - [пиши мне](https://t.me/wunderwaffla).
