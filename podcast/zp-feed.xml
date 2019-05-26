@@ -24,7 +24,7 @@ layout: null
         <itunes:summary><![CDATA[Услышав какие-то звуки из подвала, очень хочется зайти туда позже. Однако это не тот случай. На связи Ролевой Подвал. Это наш подкаст "Зайду позже", где мы обсуждаем настольные ролевые игры во всех их проявлениях: новости, обзоры игр, различныe полезныe статьи и свои мысли. У нас также есть блог https://rpgbasement.xyz, где находятся разные текстовые материалы.]]></itunes:summary>
         <itunes:author>{{site.podcastAuthor}}</itunes:author>
         <googleplay:author>{{site.podcastAuthor}}</googleplay:author>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>yes</itunes:explicit>
         <itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
         <googleplay:image href="https://rpgbasement.xyz/podcast/logo.png" />
         <itunes:type>episodic</itunes:type>
@@ -52,7 +52,7 @@ layout: null
             <itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
             <itunes:season>1</itunes:season>
             <itunes:episode>{{post.number}}</itunes:episode>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>{{post.duration}}</itunes:duration>
             <title>#{{post.number}}: {{post.podcast_title}}</title>
             <link>{{site.url}}{{post.url}}</link>
