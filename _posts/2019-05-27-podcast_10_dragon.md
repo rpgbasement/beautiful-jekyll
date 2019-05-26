@@ -10,7 +10,7 @@ number: 10
 duration: 5071
 length: 90161988
 mp3: /podcast/episodes/10_dragon.mp3
-youtube: VlG4KxEpKq4
+youtube: ZeHmmRAfFrY
 shownotes: |
     00:00:50 - Hit points: не ими едиными. Как иначе?  
     00:26:57 - Дискуссия о том, что "D&D де-факто синоним НРИ и это хорошо"  
@@ -35,7 +35,7 @@ subtitle: |
 - [Blades in the dark](https://www.evilhat.com/home/blades-in-the-dark/). Также скоро Студия 101 завезёт русскую версию
 - [Technoir](https://www.technoirrpg.com)
 - [Сервис для дискуссий Kialo](https://www.kialo.com/)
-- [Symbaroum](https://www.modiphius.net/products/symbaroum-core-book-print-and-pdf). [Наш обзор на эту игру](https://rpgbasement.xyz/2019-02-03-symbaroum/)
+- [Symbaroum](https://www.modiphius.net/products/symbaroum-core-book-print-and-pdf). [Наш обзор](https://rpgbasement.xyz/2019-02-03-symbaroum/)
 - [Предпредыдущий подкаст про Play Dirty](https://rpgbasement.xyz/2019-05-13-podcast_8_play_dirty/)
 - [Игра с титулом "Как D&D только лучше"](https://rpgbasement.xyz/2017-07-20-icrpg/)
 - [How to host a dungeon](https://www.drivethrurpg.com/product/63696/How-to-Host-a-Dungeon)
