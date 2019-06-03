@@ -38,8 +38,6 @@ subtitle: |
 {{page.shownotes}}
 
 ### Ссылки:
-- [Тред про хитпоинты](https://www.reddit.com/r/RPGdesign/comments/blblsm/what_are_some_alternatives_to_hit_points_you_use/)
-
 - [Прорыв](https://vk.com/proryv63)
 - [Fantasy World Problems](https://vk.com/fantasyworldproblems)
 - [Таверна Нентир](https://www.youtube.com/playlist?list=PL82_MqvS3fBAsoeKt5FYi7Xl-V7Lk7Nk-)
