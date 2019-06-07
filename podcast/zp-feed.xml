@@ -64,7 +64,7 @@ layout: null
 {{ post.shownotes | xml_escape }}{% endif %}{% if post.podcast_info %}
 {{ post.podcast_info | xml_escape }}{% endif %}
 Вся сопутствующая информация со ссылками находится здесь: {{site.url}}{{post.url}}]]></description>
-            <enclosure length="{{post.length}}" url="{{site.url}}{{post.mp3}}" type="audio/mpeg"/>
+            <enclosure length="{{post.length}}" url="https://pod.wunderwaffla.vip{{post.mp3}}" type="audio/mpeg"/>
         </item>
         {% endfor %}
     </channel>
