@@ -11,7 +11,7 @@ number: 13
 duration: 3763
 length: 90323939
 mp3: /podcast/episodes/13_forbidden_lands_paladin.mp3
-youtube: Naulz__D79I
+youtube: f8zYu1NmbIA
 shownotes: |
     00:05:55 - Про Forbidden Lands и про движок Year Zero в общих чертах  
     00:28:24 - Структурность путешествий в Forbidden Lands  
