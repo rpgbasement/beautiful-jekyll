@@ -7,10 +7,10 @@ tags:
 published: true
 categories: podcast
 number: 14
-duration: 3763
-length: 90323939
+duration: 4311
+length: 137939662
 mp3: /podcast/episodes/14_verbober.mp3
-youtube: f8zYu1NmbIA
+youtube: WdI_vD6ZEjE
 shownotes: |
     00:00:53 - Hillfolk Drama System. Наши впечатления
     00:22:58 - Монстры в НРИ

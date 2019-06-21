@@ -7,13 +7,13 @@ tags:
 published: true
 categories: podcast
 number: 15
-duration: 3763
-length: 90323939
+duration: 4957
+length: 158611920
 mp3: /podcast/episodes/15_gmo_crows.mp3
 youtube: f8zYu1NmbIA
 shownotes: |
-    00:00:37 - Количество фентезийных игр по сравнению с другими жанрами
-    00:21:53 - Количество игроков за столом
+    00:00:45 - Количество фентезийных игр по сравнению с другими жанрами
+    00:21:56 - Количество игроков за столом
     00:58:58 - Игры на кухне vs игры на стримах
 subtitle: |
     Количество фентезийных игр, игроков за столом, а также игры на стримах
@@ -36,3 +36,8 @@ subtitle: |
 - [You & I](https://www.drivethrurpg.com/product/255136/You--I-Roleplaying-Games-for-Two)
 - [Наши впечатления от Drama System](/2019-06-24-podcast_14_verbober/)
 - [Игры на кухне vs игры на стримах. Смотрим ли, что цепляет при просмотре игр, надо ли вообще](https://www.pastemagazine.com/articles/2019/06/learning-the-shape-of-dungeons-dragons-in-2019-at.html)
+- [Вечерние Кости](https://vk.com/vecherniyekosti)
+- [Living Room Studio](https://vk.com/livingroomstudio)
+- [Болтливый Бард](https://vk.com/flipbard)
+- [Канал Бори Федюкина](https://www.youtube.com/user/backto12)
+- [Канал Adam Koebel](https://www.youtube.com/channel/UCrQL02ilNwJ_MrB7w61f8iw)
