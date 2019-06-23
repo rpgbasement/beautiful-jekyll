@@ -10,7 +10,7 @@ number: 15
 duration: 4957
 length: 158611920
 mp3: /podcast/episodes/15_gmo_crows.mp3
-youtube: f8zYu1NmbIA
+youtube: TOkyXVv8uE8
 shownotes: |
     00:00:45 - Количество фентезийных игр по сравнению с другими жанрами
     00:21:56 - Количество игроков за столом

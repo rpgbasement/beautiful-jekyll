@@ -25,8 +25,8 @@ subtitle: |
 {{page.shownotes}}
 
 ### Ссылки:
-- [Статья МФ про монстров](https://www.mirf.ru/fun/funny/monstry-dungeons-dragons).
-- [Куча обзоров на D&D монстров](https://www.youtube.com/user/AJPickett/videos). 
+- [Статья МФ про монстров](https://www.mirf.ru/fun/funny/monstry-dungeons-dragons)
+- [Куча обзоров на D&D монстров](https://www.youtube.com/user/AJPickett/videos)
 - [А вот здесь немного сгенерированных нейросестью имён для монстров](https://aiweirdness.com/post/172170729017/dungeons-and-dragons-creatures-generated-by) 
 - [А вот ещё монстры из всяких мифов и легенд и сказок и вообще](http://www.bestiary.us/contents)
 - [Радагаст делал недавно пару выпусков про D&D монстров](https://www.youtube.com/channel/UCoHHfW54wa4S_LicqRq5s_g)
