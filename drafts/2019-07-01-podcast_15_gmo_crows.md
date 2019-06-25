@@ -23,7 +23,7 @@ subtitle: |
 
 ### Ссылки:
 - [Превалирование зачистки подземелий](https://www.reddit.com/r/rpg/comments/bezcch/why_are_there_so_many_different_variants_of_the/?utm_medium=android_app&utm_source=share)
-- [игра про животных в маленьком городе: Golden Sky Stories](https://www.drivethrurpg.com/product/118784/Golden-Sky-Stories)
+- [Игра про животных в маленьком городе: Golden Sky Stories](https://www.drivethrurpg.com/product/118784/Golden-Sky-Stories)
 - [Monsterhearts](https://www.drivethrurpg.com/product/100540/Monsterhearts)
 - [Fellowship](https://www.drivethrurpg.com/product/177662/Fellowship-2nd-Edition--A-Tabletop-Adventure-Game). [Выпуск, где мы говорим про него](/2019-06-10-podcast_12_zamurmun/)
 - [How to host a dungeon](https://www.drivethrurpg.com/product/63696/How-to-Host-a-Dungeon). [Наш микрообзор на 2 минуты](/2018-12-22-podcast_0-hthad/)
