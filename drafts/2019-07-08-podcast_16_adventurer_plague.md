@@ -10,7 +10,7 @@ number: 16
 duration: 3169
 length: 57761387
 mp3: /podcast/episodes/16_adventurer_plague.mp3
-youtube: TOkyXVv8uE8
+youtube: zteb5519HnI
 shownotes: |
     00:01:25 - Какие правила не нужны в книгах правил НРИ  
     00:16:12 - Разные виды написания книг правил  
