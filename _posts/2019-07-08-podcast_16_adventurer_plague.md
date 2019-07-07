@@ -29,7 +29,7 @@ subtitle: |
 - [Рассказывать ли игрокам о своих идеях после окончания игры?](https://www.reddit.com/r/rpg/comments/bwffpd/how_much_do_you_tell_your_players_after_the_facts/)
 - [Кориолис](https://studio101.ru/coriolis) и [наш обзор на него](https://rpgbasement.xyz/2018-08-18-corvalolis/)
 - [Symbaroum](https://www.modiphius.net/products/symbaroum-core-book-print-and-pdf). [Наш обзор](https://rpgbasement.xyz/2019-02-03-symbaroum/)
-- [Violence RPG](http://www.costik.com/Violence%20RPG1.pdf). Ещё у Героев есть на неё обзор
+- [Violence RPG](http://www.costik.com/Violence%20RPG1.pdf). [Ещё у Героев есть на неё обзор](https://www.youtube.com/watch?v=kjEG5en4SoQ)
 - [10 candles](http://cavalrygames.com/ten-candles/). [Наш обзор на неё](https://rpgbasement.xyz/2017-11-05-10_candles/)
 - [Tokyo NOVA](https://en.wikipedia.org/wiki/Tokyo_NOVA)
 - [Play Dirty](https://www.drivethrurpg.com/product/185392/Play-Dirty-2--Even-Dirtier). [Наши впечатления от неё](https://rpgbasement.xyz/2019-05-13-podcast_8_play_dirty/)
