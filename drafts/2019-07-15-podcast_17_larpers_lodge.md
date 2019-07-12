@@ -10,7 +10,7 @@ number: 17
 duration: 3301
 length: 59236285
 mp3: /podcast/episodes/17_larpers_lodge.mp3
-youtube: zteb5519HnI
+youtube: gvo_ZrxTOEE
 shownotes: |
     00:03:14 - Универсальные и сфокусированные системы. Зачем нужны первые и вторые  
     00:13:40 - Heavy rules и light rules системы  
