@@ -1,7 +1,7 @@
 ---
 layout: episode
-title: "Зайду позже #4: Chuubo's Marvelous Wish-Granting Engine - обзор"
-podcast_title: "Chuubo's Marvelous Wish-Granting Engine - обзор"
+title: "Зайду позже #4: Chuubo's Marvelous Wish-Granting Engine - сбор-разбор"
+podcast_title: "Chuubo's Marvelous Wish-Granting Engine - сбор-разбор"
 tags:
   - Принимаем удар на себя
   - Зайду позже
