@@ -10,7 +10,7 @@ number: 18
 duration: 4501
 length: 78983278
 mp3: /podcast/episodes/18_game_that_must_not_be_named.mp3
-youtube: gvo_ZrxTOEE
+youtube: s7cZQ3yfJqo
 shownotes: |
     00:05:39 - Что делает систему подходящей для длинных кампаний?  
     00:23:39 - Поддержание расписания в случае длительных игр  
