@@ -32,7 +32,7 @@ subtitle: |
 - [Fate Core](http://www.evilhat.com/home/fate-core/)
 - [Urban shadows](https://www.magpiegames.com/our-games/urban-shadows/)
 - [Stars without number](https://www.drivethrurpg.com/product/226996/Stars-Without-Number-Revised-Edition)
-- [Fireball](http://6d6rpg.com)
+- [Fireball](http://6d6rpg.com). [Перевод на русский](/podcast/files/18_fireball.pdf)
 - [Перевод (и обзор) Reflections от Анимелорда](https://imaginaria.ru/p/reflections.html)
 - [Fiasko](https://studio101.ru/othergames/fiasco/ST0401)
 - [10 candles](http://cavalrygames.com/ten-candles/). [Наш обзор на неё](https://rpgbasement.xyz/2017-11-05-10_candles/)
