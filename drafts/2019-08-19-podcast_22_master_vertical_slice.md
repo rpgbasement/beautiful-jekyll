@@ -10,9 +10,9 @@ number: 22
 duration: 2956
 length: 50980440
 mp3: /podcast/episodes/22_master_vertical_slice.mp3
-youtube: YOUTUBE_LINK_HERE
+youtube: QBSlz5X3D3Y
 shownotes: |
-    00:00:51 - Что должно быть в документе с плейтестом игры? И немного о Wicked Ones  
+    00:00:51 - Что должно быть в документе с плейтестом игры?  
     00:16:02 - Немного о Wicked Ones  
     00:25:17 - Критика систем в НРИ  
     00:30:05 - Обратная связь в НРИ  
