@@ -11,6 +11,21 @@ duration: 4501
 length: 78983278
 mp3: /podcast/episodes/18_game_that_must_not_be_named.mp3
 youtube: s7cZQ3yfJqo
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/18_game_that_must_not_be_named.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #18: Игра, которую нельзя называть",
+      "url": "https://rpgbasement.xyz/2019-07-22-podcast_18_game_that_must_not_be_named/",
+      "chaptermarks": [
+        {"start": "00:05:39", "title": "Что делает систему подходящей для длинных кампаний?"},
+        {"start": "00:23:39", "title": "Поддержание расписания в случае длительных игр"},
+        {"start": "00:35:25", "title": "Что делает систему подходящей для ваншотов?"},
+        {"start": "01:06:35", "title": "Имена в НРИ"}
+      ]
+    }
 shownotes: |
     00:05:39 - Что делает систему подходящей для длинных кампаний?  
     00:23:39 - Поддержание расписания в случае длительных игр  

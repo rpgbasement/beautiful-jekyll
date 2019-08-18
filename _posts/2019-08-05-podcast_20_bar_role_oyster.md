@@ -11,6 +11,21 @@ duration: 4193
 length: 74072614
 mp3: /podcast/episodes/20_bar_role_oyster.mp3
 youtube: 1M9PXoiVFlI
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/20_bar_role_oyster.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #20: Бар Ролевая устрица",
+      "url": "https://rpgbasement.xyz/2019-08-05-podcast_20_bar_role_oyster/",
+      "chaptermarks": [
+        {"start": "00:00:40", "title": "Как можно играть в НРИ, когда нет возможности сидеть за столом и бросать кости?"},
+        {"start": "00:11:49", "title": "Правила в НРИ и их игнорирование"},
+        {"start": "00:23:44", "title": "Модули в НРИ"},
+        {"start": "00:39:51", "title": "Новички в НРИ"}
+      ]
+    }
 shownotes: |
     00:00:40 - Как можно играть в НРИ, когда нет возможности сидеть за столом и бросать кости?  
     00:11:49 - Правила в НРИ и их игнорирование  

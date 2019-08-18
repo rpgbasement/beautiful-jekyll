@@ -11,6 +11,21 @@ duration: 3301
 length: 59236285
 mp3: /podcast/episodes/17_larpers_lodge.mp3
 youtube: gvo_ZrxTOEE
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/17_larpers_lodge.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #17: Ложа ларперов",
+      "url": "https://rpgbasement.xyz/2019-07-15-podcast_17_larpers_lodge/",
+      "chaptermarks": [
+        {"start": "00:03:14", "title": "Универсальные и сфокусированные системы. Зачем нужны первые и вторые"},
+        {"start": "00:13:40", "title": "Heavy rules и light rules системы"},
+        {"start": "00:27:58", "title": "Отыгрыш голосом и другими частями тела"},
+        {"start": "00:42:50", "title": "Историчность в НРИ"}
+      ]
+    }
 shownotes: |
     00:03:14 - Универсальные и сфокусированные системы. Зачем нужны первые и вторые  
     00:13:40 - Heavy rules и light rules системы  

@@ -11,6 +11,22 @@ duration: 3169
 length: 57761387
 mp3: /podcast/episodes/16_adventurer_plague.mp3
 youtube: zteb5519HnI
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/16_adventurer_plague.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #16: Чума приключенцев",
+      "url": "https://rpgbasement.xyz/2019-07-08-podcast_16_adventurer_plague/",
+      "chaptermarks": [
+        {"start": "00:01:25", "title": "Какие правила не нужны в книгах правил НРИ"},
+        {"start": "00:16:12", "title": "Разные виды написания книг правил"},
+        {"start": "00:24:17", "title": "Игроки, которые не читают правила"},
+        {"start": "00:34:34", "title": "Бомжи-убийцы в НРИ"},
+        {"start": "00:46:45", "title": "Стоит ли рассказывать игрокам свои идеи после конца игры?"}
+      ]
+    }
 shownotes: |
     00:01:25 - Какие правила не нужны в книгах правил НРИ  
     00:16:12 - Разные виды написания книг правил  
