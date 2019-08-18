@@ -36,8 +36,8 @@ layout: null
         <itunes:subtitle>rpgbasement.xyz</itunes:subtitle>
         <itunes:keywords>Настольные ролевые игры, НРИ, обзор, новости, ролевой подвал</itunes:keywords>
         <googleplay:category text="Games &amp; Hobbies"/>
-        <itunes:category text="Games &amp; Hobbies">
-            <itunes:category text="Other games"></itunes:category>
+        <itunes:category text="Leisure">
+            <itunes:category text="Games"></itunes:category>
         </itunes:category>
         {% for post in site.categories.podcast %}
         <item>
