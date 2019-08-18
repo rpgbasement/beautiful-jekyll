@@ -34,8 +34,6 @@ shownotes: |
 subtitle: |
     Сегодня мы обсуждаем универсальные и сфокусированные системы, тяжёлые и лёгкие системы, а также вызываем высокоуровневых вампиров и отыгрываем попадание по гоблинам
 ---
-### Шоуноты:
-{{page.shownotes}}
 
 ### Ссылки:
 - [Stars without number](https://www.drivethrurpg.com/product/226996/Stars-Without-Number-Revised-Edition)

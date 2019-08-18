@@ -35,9 +35,6 @@ subtitle: |
     Рассказываем о первых впечатлениях от Wicked Ones, а также обсуждаем плейтесты, критику и обратную связь в НРИ
 ---
 
-### Шоуноты:  
-{{page.shownotes}}
-
 ### Ссылки:  
 - [Knave](https://www.drivethrurpg.com/product/250888/Knave)
 - [Maze Rats](https://www.drivethrurpg.com/product/197158/Maze-Rats)

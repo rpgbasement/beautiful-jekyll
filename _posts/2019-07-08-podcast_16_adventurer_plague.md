@@ -36,8 +36,6 @@ shownotes: |
 subtitle: |
     Ненужные правила, бомжи-убийцы, описательные вставки и нереализованные идеи
 ---
-### Шоуноты:
-{{page.shownotes}}
 
 ### Ссылки:
 - [Какие правила не нужны в рулбуках по НРИ?](https://www.reddit.com/r/RPGdesign/comments/c3jpcx/what_doesnt_need_mechanics/)

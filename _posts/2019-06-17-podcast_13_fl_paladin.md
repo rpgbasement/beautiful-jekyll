@@ -12,6 +12,22 @@ duration: 3763
 length: 90323939
 mp3: /podcast/episodes/13_forbidden_lands_paladin.mp3
 youtube: f8zYu1NmbIA
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/13_forbidden_lands_paladin.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #13: Forbidden Lands с Чайным Паладином",
+      "url": "https://rpgbasement.xyz/2019-06-17-podcast_13_fl_paladin/",
+      "chaptermarks": [
+        {"start": "00:05:55", "title": "Про Forbidden Lands и про движок Year Zero в общих чертах"},
+        {"start": "00:28:24", "title": "Структурность путешествий в Forbidden Lands"},
+        {"start": "00:33:42", "title": "Замки в Forbidden Lands"},
+        {"start": "00:37:21", "title": "Бой в Forbidden Lands"},
+        {"start": "00:45:56", "title": "Forbidden Lands как система для OSR модулей"}
+      ]
+    }
 shownotes: |
     00:05:55 - Про Forbidden Lands и про движок Year Zero в общих чертах  
     00:28:24 - Структурность путешествий в Forbidden Lands  
@@ -21,9 +37,6 @@ shownotes: |
 subtitle: |
     Говорим про Forbidden Lands и его применение для OSR модулей с Чайным Паладином
 ---
-
-### Шоуноты:
-{{page.shownotes}}
 
 ### Ссылки:
 - [Чайный Паладин](https://vk.com/public174886726)

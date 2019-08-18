@@ -40,8 +40,5 @@ subtitle: |
     Делаем сбор-разбор неповторимого оригинала
 ---
 
-### Шоуноты:
-{{page.shownotes}}
-
 ### Ссылки:  
 - [Frostbitten and Mutilated](http://www.lotfp.com/store/index.php?route=product/product&product_id=297). [Наш обзор этой игры](/2019-02-13-podcast_2-fandm/)

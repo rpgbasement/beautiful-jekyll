@@ -34,8 +34,6 @@ shownotes: |
 subtitle: |
     Говорим про системы для длинных и коротких игр, а также про расписание и имена
 ---
-### Шоуноты:
-{{page.shownotes}}
 
 ### Ссылки:
 - [Какие игры подходят для длинных кампаний. Что такого должно быть в игре для этого?](https://www.reddit.com/r/RPGdesign/comments/btja83/what_makes_a_game_good_for_long_campaigns/)

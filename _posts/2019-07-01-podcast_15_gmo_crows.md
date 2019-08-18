@@ -11,6 +11,20 @@ duration: 4957
 length: 158611920
 mp3: /podcast/episodes/15_gmo_crows.mp3
 youtube: TOkyXVv8uE8
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/15_gmo_crows.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #15: ГМО вороны",
+      "url": "https://rpgbasement.xyz/2019-07-01-podcast_15_gmo_crows/",
+      "chaptermarks": [
+        {"start": "00:00:45", "title": "Количество фентезийных игр по сравнению с другими жанрами"},
+        {"start": "00:21:56", "title": "Количество игроков за столом"},
+        {"start": "00:58:58", "title": "Игры на кухне vs игры на стримах"}
+      ]
+    }
 shownotes: |
     00:00:45 - Количество фентезийных игр по сравнению с другими жанрами  
     00:21:56 - Количество игроков за столом  
@@ -18,8 +32,6 @@ shownotes: |
 subtitle: |
     Количество фентезийных игр, игроков за столом, а также игры на стримах
 ---
-### Шоуноты:
-{{page.shownotes}}
 
 ### Ссылки:
 - [Превалирование зачистки подземелий](https://www.reddit.com/r/rpg/comments/bezcch/why_are_there_so_many_different_variants_of_the/?utm_medium=android_app&utm_source=share)

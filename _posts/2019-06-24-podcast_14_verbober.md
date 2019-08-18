@@ -11,6 +11,21 @@ duration: 4311
 length: 137939662
 mp3: /podcast/episodes/14_verbober.mp3
 youtube: WdI_vD6ZEjE
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/14_verbober.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #14: Вербобёр",
+      "url": "https://rpgbasement.xyz/2019-06-24-podcast_14_verbober/",
+      "chaptermarks": [
+        {"start": "00:00:53", "title": "Hillfolk Drama System. Наши впечатления"},
+        {"start": "00:22:58", "title": "Монстры в НРИ"},
+        {"start": "00:49:29", "title": "Монетизация НРИ"},
+        {"start": "01:01:52", "title": "В чём заключается фан ведущего?"}
+      ]
+    }
 shownotes: |
     00:00:53 - Hillfolk Drama System. Наши впечатления  
     00:22:58 - Монстры в НРИ  
@@ -20,9 +35,6 @@ subtitle: |
     Наши впечатления от Drama System, монстров и монетизации НРИ, а также фан ведущего
 ---
 Наша почта для вопросов: rpgbasement@gmail.com
-
-### Шоуноты:
-{{page.shownotes}}
 
 ### Ссылки:
 - [Статья МФ про монстров](https://www.mirf.ru/fun/funny/monstry-dungeons-dragons)
