@@ -8,7 +8,7 @@ layout: null
 
 body {
   font-size: 18px;
-  color: #404040;
+  color: #2E303E;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -347,7 +347,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #2E303E;
 }
 
 .post-preview a:focus,
@@ -619,7 +619,7 @@ footer .theme-by {
   padding: 10px 5px;
   background-color: #FFF;
   border-radius: 0;
-  color: #404040;
+  color: #2E303E;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
