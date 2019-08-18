@@ -12,6 +12,15 @@ duration: 2849
 length: 23990836
 mp3: /podcast/episodes/2_fandm.mp3
 youtube: KQdMVBsZqpI
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/2_fandm.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #2: Frostbitten and Mutilated - обзор",
+      "url": "https://rpgbasement.xyz/2019-02-13-podcast_2-fandm/"
+    }
 podcast_info: За дополнительной информацией в виде понравившихся нам иллюстраций, дополнительного видео и рекомендаций источников вдохновения от автора проходим в блог
 subtitle: Совы не то, чем кажутся
 ---

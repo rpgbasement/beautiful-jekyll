@@ -11,6 +11,15 @@ duration: 4992
 length: 88883527
 mp3: /podcast/episodes/9_baza.mp3
 youtube: 2zuD2FFy58A
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/9_baza.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #9: Архивы Базы с Евгением Ледовских",
+      "url": "https://rpgbasement.xyz/2019-05-20-podcast_9_baza/"
+    }
 podcast_info: В Подвал зашёл в гости админ Базы игроков и мастеров Евгений Ледовских. Поговорили про историю и планы развития Базы, узнали интересные факты о её составе, затронули темы токсичности, НРИ на Дальнем Востоке и всякого другого.
 subtitle: |
     Разговоры про Базу Игроков и Мастеров в частности и ИНРИНРЯ вообще с создателем Базы Евгением Ледовских

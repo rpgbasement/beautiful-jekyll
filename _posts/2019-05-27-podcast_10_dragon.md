@@ -11,6 +11,21 @@ duration: 5071
 length: 90161988
 mp3: /podcast/episodes/10_dragon.mp3
 youtube: ZeHmmRAfFrY
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/10_dragon.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #10: Прыжок с люстры на дракона",
+      "url": "https://rpgbasement.xyz/2019-05-27-podcast_10_dragon/",
+      "chaptermarks": [
+        {"start": "00:00:50", "title": "Hit points: не ими едиными. Как иначе?"},
+        {"start": "00:26:57", "title": "Дискуссия о том, что 'DnD де-факто синоним НРИ и это хорошо'"},
+        {"start": "00:57:13", "title": "Bethesda обвиняют в том, что она сплагиатила приключение от DnD 5e"},
+        {"start": "01:02:31", "title": "Метаструктуры и метаправила для ведущих в НРИ"}
+      ]
+    }
 shownotes: |
     00:00:50 - Hit points: не ими едиными. Как иначе?  
     00:26:57 - Дискуссия о том, что "D&D де-факто синоним НРИ и это хорошо"  
@@ -19,11 +34,8 @@ shownotes: |
 subtitle: |
     Слишком много говорим про DnD и немного про метаструктуры для ведущих и игроков
 ---
-### Шоуноты:
 
-{{page.shownotes}}
-
-### Ссылки:
+### Ссылки:  
 - [Тред про хитпоинты](https://www.reddit.com/r/RPGdesign/comments/blblsm/what_are_some_alternatives_to_hit_points_you_use/)
 - [Дискуссия про D&D](https://www.kialo.com/dungeons--dragons-being-the-de-facto-rpg-is-a-good-thing-28582)
 - [Обвинения Bethesda в плагиате](http://www.enworld.org/forum/content.php?6284-Bethesda-Pulls-Promotional-Elder-Scrolls-D-D-Module-Following-Plagiarism-Accusations)

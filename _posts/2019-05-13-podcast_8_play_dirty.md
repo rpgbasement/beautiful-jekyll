@@ -12,6 +12,28 @@ duration: 5334
 length: 93337868
 mp3: /podcast/episodes/8_play_dirty.mp3
 youtube: VlG4KxEpKq4
+webPlayerJSON: |
+    "episode": {
+      "media": {
+        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/8_play_dirty.mp3"
+      },
+      "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
+      "title": "Зайду позже #8: Play Dirty - впечатления",
+      "url": "https://rpgbasement.xyz/2019-05-13-podcast_8_play_dirty/",
+      "chaptermarks": [
+        {"start": "00:03:20", "title": "Вступление"},
+        {"start": "00:04:43", "title": "Про игру в открытую, вживание в роль и квенты персонажей"},
+        {"start": "00:20:22", "title": "Игра с персонажами высокого уровня"},
+        {"start": "00:25:40", "title": "Четыре простых вопроса, после которых вам не захочется играть в данженкроул"},
+        {"start": "00:37:27", "title": "Убийство персонажей"},
+        {"start": "00:42:22", "title": "Подготовка к игре в IRL с кучей реквизита"},
+        {"start": "00:47:05", "title": "Про игры на конвентах"},
+        {"start": "00:50:48", "title": "Один сюжетный троп со ... спорным примером его применения"},
+        {"start": "00:58:44", "title": "Взгляд на подземелья с новой стороны и монстры как люди"},
+        {"start": "01:06:56", "title": "Про читы, распределение ожиданий и дополнительные цели персонажей"},
+        {"start": "01:19:09", "title": "10 заповедей от Джона Уика"}
+      ]
+    }
 shownotes: |
     00:03:20 - Вступление  
     00:04:43 - Про игру в открытую, вживание в роль и квенты персонажей  
@@ -27,7 +49,6 @@ shownotes: |
 subtitle: |
     Обсуждаем книгу Play Dirty от Джона Уика
 ---
-### Шоуноты:
-{{page.shownotes}}
+
 ### Ссылки:
  - [Книгу можно купить вот здесь](https://www.drivethrurpg.com/product/185392/Play-Dirty-2--Even-Dirtier)
