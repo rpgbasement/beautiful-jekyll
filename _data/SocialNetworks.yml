@@ -8,83 +8,33 @@
 
 telegram:
   name: "Telegram"
-  baseUrl: "https://t.me/rpgbasement"
-  icon: "fa-telegram-plane"
+  baseURL: "https://t.me/rpgbasement"
+  icon: "fa-telegram"
 
 vk:
   name: "VK"
-  baseUrl: "https://vk.com/rpgbasement"
+  baseURL: "https://vk.com/rpgbasement"
   icon: "fa-vk"
-
-facebook:
-  name: "Facebook"
-  baseURL: "https://www.facebook.com/"
-  icon: "fa-facebook"
 
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
   icon: "fa-github"
 
-twitter:
-  name: "Twitter"
-  baseURL: "https://twitter.com/"
-  icon: "fa-twitter"
-
-reddit:
-  name: "Reddit"
-  baseURL: "https://reddit.com/u/"
-  icon: "fa-reddit"
-
-google-plus:
-  name: "Google+"
-  baseURL: "https://plus.google.com/"
-  icon: "fa-google-plus"
-
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto:rpgbasement@gmail.com"
   icon: "fa-envelope"
-
-linkedin:
-  name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
-  icon: "fa-linkedin"
-
-xing:
-  name: "Xing"
-  baseURL: "https://www.xing.com/profile/"
-  icon: "fa-xing"
-
-stackoverflow:
-  name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/"
-  icon: "fa-stack-overflow"
-
-snapchat:
-  name: "Snapchat"
-  baseURL: "https://www.snapchat.com/add/"
-  icon: "fa-snapchat-ghost"
-
-instagram:
-  name: "Instagram"
-  baseURL: "https://www.instagram.com/"
-  icon: "fa-instagram"
 
 youtube:
   name: "YouTube"
-  baseURL: "https://www.youtube.com/"
+  baseURL: "https://www.youtube.com/channel/UCr-09bDJ9wvDxTMmotgOeFg"
   icon: "fa-youtube"
 
 spotify:
   name: "Spotify"
-  baseURL: "https://open.spotify.com/user/"
+  baseURL: "https://open.spotify.com/show/1xnWPuuDFEgA2XL3budRcI"
   icon: "fa-spotify"
-
-telephone:
-  name: "Phone"
-  baseURL: "tel:"
-  icon: "fa-phone"
 
 rss:
   name: "RSS"
@@ -96,17 +46,22 @@ podcast:
   baseURL: "https://rpgbasement.xyz/podcast/zp-feed.xml"
   icon: "fa-podcast"
 
-steam:
-  name: "Steam"
-  baseURL: "https://steamcommunity.com/id/"
-  icon: "fa-steam"
-
 twitch:
   name: "Twitch"
   baseURL: "https://www.twitch.tv/rpgbasement"
   icon: "fa-twitch"
 
-yelp:
-  name: "Yelp"
-  baseURL: "https://{{ site.author.yelp }}.yelp.com"
-  icon: "fa-yelp"
+apple:
+  name: "Apple подкасты"
+  baseURL: "https://podcasts.apple.com/us/podcast/%D0%B7%D0%B0%D0%B9%D0%B4%D1%83-%D0%BF%D0%BE%D0%B7%D0%B6%D0%B5/id1461711366<Paste>"
+  icon: "fa-apple"
+
+yandex:
+  name: "Yandex Музыка"
+  baseURL: "https://music.yandex.ru/album/7570062"
+  icon: "fa-compact-disc"
+
+google:
+  name: "Google подкасты"
+  baseURL: "https://podcasts.google.com/?feed=aHR0cHM6Ly9ycGdiYXNlbWVudC54eXovcG9kY2FzdC96cC1mZWVkLnhtbA%3D%3D"
+  icon: "fa-google"
