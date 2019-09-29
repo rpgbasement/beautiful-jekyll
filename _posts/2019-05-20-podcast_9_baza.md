@@ -14,7 +14,7 @@ youtube: 2zuD2FFy58A
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/9_baza.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/9_baza.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #9: Архивы Базы с Евгением Ледовских",

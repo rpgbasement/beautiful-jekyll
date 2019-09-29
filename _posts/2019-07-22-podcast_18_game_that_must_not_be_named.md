@@ -14,7 +14,7 @@ youtube: s7cZQ3yfJqo
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/18_game_that_must_not_be_named.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/18_game_that_must_not_be_named.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #18: Игра, которую нельзя называть",

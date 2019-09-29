@@ -14,7 +14,7 @@ youtube: QBSlz5X3D3Y
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/22_master_vertical_slice.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/22_master_vertical_slice.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #22: Вертикальный срез ведущего",

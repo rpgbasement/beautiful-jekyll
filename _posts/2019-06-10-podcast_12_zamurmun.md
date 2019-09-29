@@ -15,7 +15,7 @@ youtube: Naulz__D79I
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/12_zamurmun.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/12_zamurmun.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #12: Путь к особой цели с Zamurmun",

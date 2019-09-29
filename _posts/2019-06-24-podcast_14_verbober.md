@@ -14,7 +14,7 @@ youtube: WdI_vD6ZEjE
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/14_verbober.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/14_verbober.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #14: Вербобёр",

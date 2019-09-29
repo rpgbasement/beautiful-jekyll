@@ -15,7 +15,7 @@ youtube: s2A2K0rm0To
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/21_mutant_year_zero.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/21_mutant_year_zero.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #21: Mutant: Year Zero - сбор-разбор",

@@ -14,7 +14,7 @@ youtube: gvo_ZrxTOEE
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/17_larpers_lodge.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/17_larpers_lodge.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #17: Ложа ларперов",

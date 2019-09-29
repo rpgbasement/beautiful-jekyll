@@ -14,7 +14,7 @@ youtube: dGEfYHRJQlQ
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/5_lazers_dinos.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/5_lazers_dinos.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #5: С лазерами и динозаврами",

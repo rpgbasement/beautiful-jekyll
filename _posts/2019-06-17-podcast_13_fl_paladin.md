@@ -15,7 +15,7 @@ youtube: f8zYu1NmbIA
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/13_forbidden_lands_paladin.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/13_forbidden_lands_paladin.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #13: Forbidden Lands с Чайным Паладином",

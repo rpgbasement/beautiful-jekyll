@@ -14,7 +14,7 @@ youtube: p538GBtPoME
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/7_d12_orcs.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/7_d12_orcs.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #7: D12 орков",

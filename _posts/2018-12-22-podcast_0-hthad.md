@@ -15,7 +15,7 @@ youtube: sy33uOHC5Gw
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/0_how_to_host_a_dungeon.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/0_how_to_host_a_dungeon.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #0: How to host a dungeon - нанообзор",

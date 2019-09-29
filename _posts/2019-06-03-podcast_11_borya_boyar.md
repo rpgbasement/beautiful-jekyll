@@ -14,7 +14,7 @@ youtube: PySDER2NfsQ
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/11_borya_boyar.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/11_borya_boyar.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #11: Индибоярство с Борисом Федюкиным",

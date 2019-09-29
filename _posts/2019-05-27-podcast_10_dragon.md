@@ -14,7 +14,7 @@ youtube: ZeHmmRAfFrY
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/10_dragon.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/10_dragon.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #10: Прыжок с люстры на дракона",

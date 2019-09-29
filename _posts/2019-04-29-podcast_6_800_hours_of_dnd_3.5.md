@@ -14,7 +14,7 @@ youtube: 751J4NNx6jA
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/6_800_hours_of_dnd.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/6_800_hours_of_dnd.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #6: 800 часов DnD 3.5",

@@ -15,7 +15,7 @@ youtube: VlG4KxEpKq4
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/8_play_dirty.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/8_play_dirty.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #8: Play Dirty - впечатления",

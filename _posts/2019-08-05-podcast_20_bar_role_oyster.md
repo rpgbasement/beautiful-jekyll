@@ -14,7 +14,7 @@ youtube: 1M9PXoiVFlI
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/20_bar_role_oyster.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/20_bar_role_oyster.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #20: Бар Ролевая устрица",

@@ -14,7 +14,7 @@ youtube: -WmU5-HqlF8
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/23_well_be_back.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/23_well_be_back.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #23: Он улетел, но обещал вернуться",

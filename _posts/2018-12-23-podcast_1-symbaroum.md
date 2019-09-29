@@ -15,7 +15,7 @@ youtube: 1pSlARtAB2o
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/1_symbaroum.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/1_symbaroum.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #1: Symbaroum - обзор",

@@ -15,7 +15,7 @@ youtube: KQdMVBsZqpI
 webPlayerJSON: |
     "episode": {
       "media": {
-        "mp3": "https://pod.wunderwaffla.vip/podcast/episodes/2_fandm.mp3"
+        "mp3": "https://pod.testchamber.one/podcast/episodes/2_fandm.mp3"
       },
       "coverUrl": "https://rpgbasement.xyz/img/podcast-logo.png",
       "title": "Зайду позже #2: Frostbitten and Mutilated - обзор",
