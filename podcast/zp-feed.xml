@@ -17,7 +17,7 @@ layout: null
         <language>ru</language>
         <copyright>2019 &#xA9; rpgbasement.xyz</copyright>
         <image>
-            <url>https://rpgbasement.xyz/podcast/logo.png</url>
+            <url>https://rpgbasement.xyz/podcast/{{ post.logoUrl | default: logo.png }}</url>
             <title>{{site.podcastTitle}}</title>
             <link>https://rpgbasement.xyz</link>
         </image>

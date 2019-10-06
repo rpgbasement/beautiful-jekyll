@@ -10,6 +10,7 @@ number: 25
 duration: 2093
 length: 38595458
 mp3: /podcast/episodes/25_glade_generator.mp3
+logoUrl: logos/25.png
 youtube: brwMmO1M8uY
 webPlayerJSON: |
     "episode": {
