@@ -17,7 +17,7 @@ layout: null
         <language>ru</language>
         <copyright>2019 &#xA9; rpgbasement.xyz</copyright>
         <image>
-            <url>https://rpgbasement.xyz/podcast/{{ post.logoUrl | default: logo.png }}</url>
+            <url>https://rpgbasement.xyz/podcast/logo.png</url>
             <title>{{site.podcastTitle}}</title>
             <link>https://rpgbasement.xyz</link>
         </image>
@@ -49,7 +49,7 @@ layout: null
 {{ post.podcast_info | xml_escape }}{% endif %}
 Вся сопутствующая информация со ссылками находится здесь: {{site.url}}{{post.url}}]]> </itunes:summary>
             <itunes:author>{{site.podcastAuthor}}</itunes:author>
-            <itunes:image href="https://rpgbasement.xyz/podcast/logo.png" />
+            <itunes:image href=https://rpgbasement.xyz/podcast/{{ post.logoUrl | default: logo.png }} />
             <itunes:season>1</itunes:season>
             <itunes:episode>{{post.number}}</itunes:episode>
             <itunes:explicit>yes</itunes:explicit>
