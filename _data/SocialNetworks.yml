@@ -33,7 +33,7 @@ youtube:
 
 spotify:
   name: "Spotify"
-  baseURL: "https://open.spotify.com/show/1xnWPuuDFEgA2XL3budRcI"
+  baseURL: "https://open.spotify.com/show/1xnWPuuDFEgA2XL3budRcI?si=LcGI6a79STCQT5jX8L-t6A"
   icon: "fa-spotify"
 
 rss:
