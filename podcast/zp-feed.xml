@@ -37,7 +37,7 @@ layout: null
         <itunes:keywords>Настольные ролевые игры, НРИ, обзор, новости, ролевой подвал</itunes:keywords>
         <googleplay:category text="Games &amp; Hobbies"/>
         <itunes:category text="Leisure">
-            <itunes:category text="Games"></itunes:category>
+            <itunes:category text="Hobbies"></itunes:category>
         </itunes:category>
         {% for post in site.categories.podcast %}
         <item>
