@@ -27,8 +27,6 @@ subtitle: |
 ---
 
 ### Ссылки:  
-- Выпуск про НРИ по другим медиа
-- The Gamers
-- Zero Charisma
-- The Dungeon Masters
-- Аниме, где играют в НРИ
+- [Выпуск про НРИ по другим медиа](https://rpgbasement.xyz/2019-04-21-podcast_5_lazers_dinos/)
+- [The Gamers](https://en.wikipedia.org/wiki/The_Gamers_(film))
+- [Zero Charisma](https://en.wikipedia.org/wiki/Zero_Charisma)
