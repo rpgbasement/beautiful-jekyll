@@ -11,7 +11,7 @@ duration: 3634
 length: 68426742
 mp3: /podcast/episodes/27_devils_toy.mp3
 logoUrl: 27.png
-youtube: YOUTUBE_LINK_HERE
+youtube: a6v0G30En1E
 webPlayerJSON: |
     "episode": {
       "media": {
