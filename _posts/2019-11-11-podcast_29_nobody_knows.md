@@ -11,7 +11,7 @@ duration: 2080
 length: 49921696
 mp3: /podcast/episodes/29_nobody_knows.mp3
 logoUrl: 29.png
-youtube: YOUTUBE_LINK_HERE
+youtube: EsP69DnxYgA
 webPlayerJSON: |
     "episode": {
       "media": {
