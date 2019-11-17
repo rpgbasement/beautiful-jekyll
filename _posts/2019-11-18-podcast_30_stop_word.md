@@ -11,7 +11,7 @@ duration: 3705
 length: 67215558
 mp3: /podcast/episodes/30_stop_word.mp3
 logoUrl: 30.png
-youtube: YOUTUBE_LINK_HERE
+youtube: oJ6S0ccvVdU
 webPlayerJSON: |
     "episode": {
       "media": {
