@@ -28,7 +28,7 @@ webPlayerJSON: |
       ]
     }
 shownotes: |
-    00:00:33 - Новый тираж DW  
+    00:00:33 - Новый тираж Dungeon World
     00:08:05 - My Little Pony: Tails of Equestia  
     00:12:52 - Впечатления Масы от DnD5  
     00:30:51 - Новая версия Wicked Ones  
