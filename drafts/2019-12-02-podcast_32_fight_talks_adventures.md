@@ -33,7 +33,7 @@ subtitle: |
 ---
 
 ### Ссылки:  
-- 30минутные герои
+- [30минутные герои](https://vk.com/@-185003235-30-minutnye-geroi)
 - [Перевод (и обзор) Reflections от Анимелорда](https://imaginaria.ru/p/reflections.html)
 - [Fiasko](https://studio101.ru/othergames/fiasco/ST0401)
 - [База Игроков и Мастеров](https://vk.com/vbazetrpg)
