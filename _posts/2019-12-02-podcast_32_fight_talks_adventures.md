@@ -11,7 +11,7 @@ duration: 2442
 length: 44039140
 mp3: /podcast/episodes/32_fight_talks_adventures.mp3
 logoUrl: 32.jpg
-youtube: YOUTUBE_LINK_HERE
+youtube: PS6CFebxDIk
 webPlayerJSON: |
     "episode": {
       "media": {
