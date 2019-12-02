@@ -10,14 +10,14 @@ number: 32
 duration: 2442
 length: 44039140
 mp3: /podcast/episodes/32_fight_talks_adventures.mp3
-logoUrl: 32.png
+logoUrl: 32.jpg
 youtube: YOUTUBE_LINK_HERE
 webPlayerJSON: |
     "episode": {
       "media": {
         "mp3": "https://pod.testchamber.one/podcast/episodes/32_fight_talks_adventures.mp3"
       },
-      "coverUrl": "https://rpgbasement.xyz/podcast/logos/32.png",
+      "coverUrl": "https://rpgbasement.xyz/podcast/logos/32.jpg",
       "title": "Зайду позже #32: Боёвка, социалка и приключалово",
       "url": "https://rpgbasement.xyz/2019-12-02-podcast_32_fight_talks_adventures/",
       "chaptermarks": [
