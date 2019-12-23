@@ -11,7 +11,7 @@ duration: 3156
 length: 51587994
 mp3: /podcast/episodes/34_wod_questions.mp3
 logoUrl: 34.png
-youtube: YOUTUBE_LINK_HERE
+youtube: hGb1W-QfEXI
 webPlayerJSON: |
     "episode": {
       "media": {
