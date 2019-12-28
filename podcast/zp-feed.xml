@@ -40,6 +40,7 @@ layout: null
             <itunes:category text="Hobbies"></itunes:category>
         </itunes:category>
         {% for post in site.categories.podcast %}
+        {% if post.patrons != 1 %}
         <item>
             <itunes:title>{{post.podcast_title}}</itunes:title>
             <itunes:subtitle>{{post.subtitle}}</itunes:subtitle>
@@ -66,6 +67,7 @@ layout: null
 Вся сопутствующая информация со ссылками находится здесь: {{site.url}}{{post.url}}]]></description>
             <enclosure length="{{post.length}}" url="https://chtbl.com/track/81G98/pod.testchamber.one{{post.mp3}}" type="audio/mpeg"/>
         </item>
+        {% endif %}
         {% endfor %}
     </channel>
 </rss>

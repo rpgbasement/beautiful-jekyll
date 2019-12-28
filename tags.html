@@ -22,12 +22,14 @@ title: Разделы
     </h2>
     <div class="post-list">
         {%- for post in site.tags[tag] -%}
+        {% if post.patrons != 1 %}
             <div class="tag-entry">
                 <a href="{{- site.url -}}{{- post.url -}}">{{- post.title -}}</a>
                 <div class="entry-date">
                     <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%B %d, %Y" -}}</time>
                 </div>
             </div>
+        {% endif %}
         {%- endfor -%}
     </div>
 {%- endfor -%}
