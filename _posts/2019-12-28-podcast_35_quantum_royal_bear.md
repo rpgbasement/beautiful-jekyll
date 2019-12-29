@@ -11,7 +11,7 @@ duration: 2603
 length: 50041153
 mp3: /podcast/episodes/35_quantum_royal_bear.mp3
 logoUrl: 35.png
-youtube: YOUTUBE_LINK_HERE
+youtube: 72_v1IN16Is
 webPlayerJSON: |
     "episode": {
       "media": {
