@@ -1,5 +1,4 @@
 ---
-patrons: 1
 layout: episode
 title: "Зайду позже #35: Медведь на квантовом рояле"
 podcast_title: "Медведь на квантовом рояле"
@@ -20,7 +19,7 @@ webPlayerJSON: |
       },
       "coverUrl": "https://rpgbasement.xyz/podcast/logos/35.png",
       "title": "Зайду позже #35: Медведь на квантовом рояле",
-      "url": "https://rpgbasement.xyz/2019-12-30-podcast_35_quantum_royal_bear/",
+      "url": "https://rpgbasement.xyz/2019-12-28-podcast_35_quantum_royal_bear/",
       "chaptermarks": [
         {"start": "00:00:03", "title": "Пара слов о конкурсе гекскроулов"},
         {"start": "00:03:06", "title": "Проблемы в квадрате: сложности вождения Mutant: Year Zero"},
