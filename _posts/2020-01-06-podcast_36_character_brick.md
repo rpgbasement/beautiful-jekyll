@@ -38,7 +38,7 @@ subtitle: |
 ### Ссылки:  
 - [Mouse Guard](http://www.mouseguard.net/book/role-playing-game/). [Наш обзор на неё](https://rpgbasement.xyz/2019-07-09-mouse_guard/)  
 - [Apocalypse World](http://apocalypse-world.com/)
-- [[Книга про тёмную ванну от Джона Вика](https://www.drivethrurpg.com/product/185392/Play-Dirty-2--Even-Dirtier). [Наши впечатления от неё](https://rpgbasement.xyz/2019-05-13-podcast_8_play_dirty/)
+- [Книга про тёмную ванну от Джона Вика](https://www.drivethrurpg.com/product/185392/Play-Dirty-2--Even-Dirtier). [Наши впечатления от неё](https://rpgbasement.xyz/2019-05-13-podcast_8_play_dirty/)
 - [Monsterhearts](https://www.drivethrurpg.com/product/100540/Monsterhearts)
 - [Rins - эксперт по Monster Hearts](https://vk.com/saltmug)
 - [10 candles](http://cavalrygames.com/ten-candles/). [Наш обзор на неё](https://rpgbasement.xyz/2017-11-05-10_candles/)
@@ -48,8 +48,8 @@ subtitle: |
 
 ---
 
-Этот контент создан при поддержке  
-бара "Ролевая устрица"  
+**Этот контент создан при поддержке**  
+индибоярина Konstantin Baidin  
 [![](/img/patreon_button.png)](https://www.patreon.com/rpgbasement)  
 {:.center}
 Если хочешь нас поддержать - жми сюда 🔼
