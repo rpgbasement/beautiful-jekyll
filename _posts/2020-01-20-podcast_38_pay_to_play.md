@@ -11,7 +11,7 @@ duration: 3157
 length: 54058306
 mp3: /podcast/episodes/38_pay_to_play.mp3
 logoUrl: 38.png
-youtube: YOUTUBE_LINK_HERE
+youtube: 0XG4IW2W45g
 webPlayerJSON: |
     "episode": {
       "media": {
