@@ -1,17 +1,10 @@
 ---
-
-### Ссылки:  
-- Lancer - бесплатная версия
-- The GUN
-- Программа для создания персонажей
-- Titanfall
-- Shadow of the demon lord
----
 layout: episode
 title: "Зайду позже #39: Lancer - сбор-разбор"
 podcast_title: "Lancer - сбор-разбор"
 tags:
   - Зайду позже
+  - Принимаем удар на себя
 published: true
 categories: podcast
 number: 39
