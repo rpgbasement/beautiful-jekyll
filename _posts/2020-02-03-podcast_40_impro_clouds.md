@@ -41,3 +41,13 @@ subtitle: |
 - [Генератор для мутантов](https://stefouch.github.io/myz-zonemap/#/)
 - [Vaesen](https://www.kickstarter.com/projects/1192053011/vaesen-nordic-horror-roleplaying)
 - [Наш Telegram чат](https://t.me/rpgbasementchat)
+
+---
+
+**Этот контент создан при поддержке**  
+индибоярина Konstantin Baidin  
+[![](/img/patreon_button.png)](https://www.patreon.com/rpgbasement)  
+{:.center}
+Если хочешь нас поддержать - жми сюда 🔼
+
+---
