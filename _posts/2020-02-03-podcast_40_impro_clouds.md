@@ -37,7 +37,7 @@ subtitle: |
 ### Ссылки:  
 - [Мем про детей из "Я ем часы"](https://vk.com/wall-119901308_1516)
 - [Сбор-разбор мутантов](https://rpgbasement.xyz/2019-08-12-podcast_21_mutant_year_zero/)
-- [Заметка одмена базы](https://vk.com/wall8212508_12897)
+- [Заметка админа Базы Eвгерия про мутантов](https://vk.com/wall8212508_12897)
 - [Генератор для мутантов](https://stefouch.github.io/myz-zonemap/#/)
 - [Vaesen](https://www.kickstarter.com/projects/1192053011/vaesen-nordic-horror-roleplaying)
 - [Наш Telegram чат](https://t.me/rpgbasementchat)
