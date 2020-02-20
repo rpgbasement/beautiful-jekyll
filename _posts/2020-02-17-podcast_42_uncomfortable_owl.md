@@ -40,3 +40,13 @@ subtitle: |
 - [Blades in the dark](https://www.evilhat.com/home/blades-in-the-dark/)
 - [Про тех, кто играет в игры неправильно](https://vk.com/wall-119901308_1409)
 - [10 candles](http://cavalrygames.com/ten-candles/). [Наш обзор на неё](https://rpgbasement.xyz/2017-11-05-10_candles/)
+
+---
+
+**Этот контент создан при поддержке**  
+индибоярина Konstantin Baidin  
+[![](/img/patreon_button.png)](https://www.patreon.com/rpgbasement)  
+{:.center}
+Если хочешь нас поддержать - жми сюда 🔼
+
+---
